@@ -29,6 +29,8 @@ The runnable course implements the [reviewed outline](docs/curriculum/OUTLINE.md
 
 Includes brief animated robot gestures, live activities, generated practice, hints, worked solutions, checkpoints, and a printable standalone teaching guide. Story bars begin with unknown counts. Bar models provide a bridge to schoolwork without assuming a particular textbook edition.
 
+The first six interactive episodes also include “From boxes and bars to algebra”: the same question solved through a labeled part–whole picture and an equation. Reveal the algebra after discussing the picture, then check the shared answer. These cover equal values, missing parts, unknown wholes, undoing addition/subtraction, and equal groups. The early operation examples are labeled previews; detailed practice follows in the relevant episode.
+
 ## Progress and teaching
 
 Quinn, Reagan, and Guest save separate progress in local storage. Older eight-lesson counts remain intact in a legacy record; they do not become independent evidence. New progress distinguishes practice with help from answers without in-page hints. An adult records explored / supported / independent / revisited observations after an explanation. No lessons are locked and no number of clicks awards mastery.

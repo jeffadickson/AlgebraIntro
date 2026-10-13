@@ -6,6 +6,11 @@ function setup(initial={}){
  const ctx=vm.createContext({document:{getElementById:node},localStorage:{getItem:k=>stored[k]||null,setItem:(k,v)=>stored[k]=v},window:{print(){}},console});vm.runInContext(code,ctx);return {node,stored,run:c=>vm.runInContext(c,ctx)};
 }
 const {node,run}=setup();assert.equal(run('lessons.length'),12);
+for(let ch=0;ch<6;ch++){
+ run(`go(${ch})`);assert.match(node('lesson').innerHTML,/From boxes and bars to algebra/);
+ const b=run(`lessons[${ch}].bridge`);assert(b.school.length>=2&&b.algebra.length>=2&&b.check);
+ assert.match(node('lesson').innerHTML,/Show the algebra/);
+}
 for(let ch=0;ch<12;ch++){
  run(`go(${ch})`);
  for(let i=0;i<200;i++){

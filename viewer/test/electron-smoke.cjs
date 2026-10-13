@@ -9,6 +9,10 @@ exports.run=async({app,win,openBook,current,session})=>{
     assert.equal(await win.webContents.executeJavaScript('typeof process'),'undefined');
     assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/Equals means same value/);
     assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/One small adventure today/);
+    assert.equal(await win.webContents.executeJavaScript("document.querySelector('.bridgeColumns details').open"),false);
+    await win.webContents.executeJavaScript("document.querySelector('.bridgeColumns summary').click()");
+    assert.equal(await win.webContents.executeJavaScript("document.querySelector('.bridgeColumns details').open"),true);
+    assert.match(await win.webContents.executeJavaScript("document.querySelector('.bridgeColumns').innerText"),/Subtract 5 from BOTH sides/);
     await win.webContents.executeJavaScript("document.getElementById('laterCheck').click()");
     assert.equal(await win.webContents.executeJavaScript('checking'),'revisit');
     await win.webContents.executeJavaScript("document.getElementById('fresh').click()");
