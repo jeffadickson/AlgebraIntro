@@ -22,6 +22,8 @@ const userFile = () => path.join(app.getPath('userData'), 'reader-state.json');
 const guardScript = () => app.isPackaged ? path.join(process.resourcesPath, 'reader-tools', 'NetworkGuard.ps1') : path.join(__dirname, 'scripts', 'NetworkGuard.ps1');
 let win, current, state = { recent: [], books: {} }, serial = Promise.resolve(), guardTimer, guardBusy = false;
 const snapshots = new Map();
+const hardenedSessions = new WeakSet();
+let openQueue = Promise.resolve();
 function guard(mode, target) {
   if (process.platform !== 'win32') return development ? Promise.resolve() : Promise.reject(new Error('This release requires Windows network isolation.'));
   const ps = path.join(process.env.SystemRoot || 'C:\\Windows', 'System32', 'WindowsPowerShell', 'v1.0', 'powershell.exe');
@@ -50,6 +52,8 @@ async function readState() {
 }
 function bookState(id) { return state.books[id] ||= { scroll:0, zoom:1, bookmarks:[] }; }
 function hardenSession(ses, id) {
+  if(hardenedSessions.has(ses))return;
+  hardenedSessions.add(ses);
   ses.setPermissionRequestHandler((_wc,_permission,callback) => callback(false));
   ses.setPermissionCheckHandler(() => false);
   ses.setDevicePermissionHandler(() => false);
@@ -82,7 +86,12 @@ async function capturePosition(w = win, id = current?.id) {
   try { bookState(id).scroll = P.scrollValue(await w.webContents.executeJavaScript('window.scrollY', true)); } catch {}
   try { await writeState(); } catch { /* A later save can retry. */ }
 }
-async function openBook(file) {
+function openBook(file) {
+  const next = openQueue.catch(()=>{}).then(()=>openBookNow(file));
+  openQueue = next;
+  return next;
+}
+async function openBookNow(file) {
   await verifyGuard();
   P.validateFileName(file);
   if (process.platform === 'win32') await guard('LocalFile', file);
@@ -93,7 +102,7 @@ async function openBook(file) {
   if (!stat.isFile() || stat.size > P.MAX_BOOK_BYTES) throw new Error('Choose an HTML file no larger than 25 MiB.');
   const bytes = await fs.readFile(canonical);
   if (bytes.length > P.MAX_BOOK_BYTES) throw new Error('The book is too large.');
-  const id = P.bookId(canonical), previous = win;
+  const id = P.bookId(canonical), previous = win, previousBook = current;
   await capturePosition();
   const ses = session.fromPartition(`persist:book-${id}`);
   hardenSession(ses, id);
@@ -129,7 +138,7 @@ async function openBook(file) {
     opened.webContents.setZoomFactor(P.zoomValue(prefs.zoom));
     opened.webContents.executeJavaScript(`window.scrollTo(0, ${P.scrollValue(prefs.scroll)})`).catch(()=>{});
   });
-  try { await opened.loadURL(P.bookURL(id)); } catch (error) { opened.destroy(); win = previous; throw error; }
+  try { await opened.loadURL(P.bookURL(id)); } catch (error) { opened.destroy(); win = previous; current = previousBook; throw error; }
   state.recent = [canonical,...state.recent.filter(x=>x!==canonical)].slice(0,10);
   await writeState();
   buildMenu(); opened.setTitle(title()); if(!smoke)opened.show();

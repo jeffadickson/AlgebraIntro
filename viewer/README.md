@@ -52,6 +52,7 @@ Requires Node.js 22.12+ and npm. Initial dependency installation and packaging d
 ```powershell
 cd viewer
 npm ci
+npm run setup:electron
 npm test
 npm run package:win
 ```

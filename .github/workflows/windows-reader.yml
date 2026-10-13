@@ -24,6 +24,7 @@ jobs:
           cache: npm
           cache-dependency-path: viewer/package-lock.json
       - run: npm ci
+      - run: npm run setup:electron
       - run: npm test
       - run: node ../tests/check-course.cjs
       - name: Verify PowerShell syntax and enforce network isolation for integration test
