@@ -8,32 +8,32 @@
     [
       7,
       2,
-      "Yes. Both sides are 6."
+      "Yes. Both sides are 11."
     ],
     [
       7,
       3,
-      "No. The left is 9; replace 10 with 9."
+      "No. The left is 11; replace 12 with 11."
     ],
     [
       7,
       4,
-      "□ = 2; both sides are 3."
+      "□ = 8; both sides are 12."
     ],
     [
       8,
       1,
-      "Yes. Both sides are 6."
+      "Yes. Both sides are 12."
     ],
     [
       8,
       2,
-      "No. The left is 9; replace 10 with 9."
+      "No. The left is 5; replace 6 with 5."
     ],
     [
       8,
       3,
-      "□ = 2; both sides are 3."
+      "□ = 6; both sides are 13."
     ],
     [
       8,
@@ -43,12 +43,12 @@
     [
       8,
       5,
-      "No. The left is 9; replace 10 with 9."
+      "No. The left is 6; replace 7 with 6."
     ],
     [
       8,
       6,
-      "□ = 2; both sides are 3."
+      "□ = 4; both sides are 14."
     ],
     [
       9,
@@ -68,42 +68,42 @@
     [
       10,
       1,
-      "Yes. Both sides are 6."
+      "Yes. Both sides are 7."
     ],
     [
       10,
       2,
-      "No. The left is 9; replace 10 with 9."
+      "No. The left is 15; replace 16 with 15."
     ],
     [
       10,
       3,
-      "□ = 2; both sides are 3."
+      "□ = 3; both sides are 8."
     ],
     [
       10,
       4,
-      "Yes. Both sides are 6."
+      "Yes. Both sides are 8."
     ],
     [
       77,
       1,
-      "□ = 2; both sides are 3."
+      "□ = 14; both sides are 15."
     ],
     [
       78,
       6,
-      "No. The left is 9; replace 10 with 9."
+      "No. The left is 12; replace 13 with 12."
     ],
     [
       80,
       5,
-      "Yes. Both sides are 6."
+      "Yes. Both sides are 9."
     ],
     [
       82,
       4,
-      "□ = 2; both sides are 3."
+      "□ = 2; both sides are 6."
     ]
   ],
   [
@@ -212,52 +212,52 @@
     [
       19,
       1,
-      "5; check 5 = 2 + 3."
+      "3; check 3 = 2 + 1."
     ],
     [
       19,
       2,
-      "8; check 8 = 3 + 5."
+      "11; check 11 = 5 + 6."
     ],
     [
       19,
       3,
-      "5; check 5 = 4 + 1."
+      "12; check 12 = 8 + 4."
     ],
     [
       19,
       4,
-      "5; check 5 = 2 + 3."
+      "5; check 5 = 3 + 2."
     ],
     [
       20,
       1,
-      "8; check 8 = 3 + 5."
+      "13; check 13 = 6 + 7."
     ],
     [
       20,
       2,
-      "5; check 5 = 4 + 1."
+      "14; check 14 = 9 + 5."
     ],
     [
       20,
       3,
-      "5; check 5 = 2 + 3."
+      "7; check 7 = 4 + 3."
     ],
     [
       20,
       4,
-      "8; check 8 = 3 + 5."
+      "8; check 8 = 7 + 1."
     ],
     [
       20,
       5,
-      "5; check 5 = 4 + 1."
+      "8; check 8 = 2 + 6."
     ],
     [
       20,
       6,
-      "5; check 5 = 2 + 3."
+      "9; check 9 = 5 + 4."
     ],
     [
       21,
@@ -277,42 +277,42 @@
     [
       22,
       1,
-      "8; check 8 = 3 + 5."
+      "10; check 10 = 8 + 2."
     ],
     [
       22,
       2,
-      "5; check 5 = 4 + 1."
+      "10; check 10 = 3 + 7."
     ],
     [
       22,
       3,
-      "5; check 5 = 2 + 3."
+      "11; check 11 = 6 + 5."
     ],
     [
       22,
       4,
-      "8; check 8 = 3 + 5."
+      "12; check 12 = 9 + 3."
     ],
     [
       77,
       2,
-      "8; check 8 = 3 + 5."
+      "9; check 9 = 7 + 2."
     ],
     [
       79,
       1,
-      "5; check 5 = 2 + 3."
+      "9; check 9 = 8 + 1."
     ],
     [
       80,
       6,
-      "5; check 5 = 4 + 1."
+      "16; check 16 = 9 + 7."
     ],
     [
       82,
       5,
-      "8; check 8 = 3 + 5."
+      "8; check 8 = 2 + 6."
     ]
   ],
   [
@@ -1088,7 +1088,7 @@
     [
       68,
       1,
-      "□ = 2; both sides are 3."
+      "□ = 2; both sides are 9."
     ],
     [
       68,
@@ -1138,7 +1138,7 @@
     [
       70,
       2,
-      "Yes. Both sides are 6."
+      "Yes. Both sides are 12."
     ],
     [
       70,
@@ -1153,7 +1153,7 @@
     [
       78,
       4,
-      "No. The left is 9; replace 10 with 9."
+      "No. The left is 8; replace 9 with 8."
     ],
     [
       80,

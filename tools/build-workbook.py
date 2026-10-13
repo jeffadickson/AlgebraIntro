@@ -92,6 +92,7 @@ def problem(ch,k):
  x=(k*3+ch)%10;a=2+k%3;b=1+(k*2+ch)%6
  if ch==10:return problem([3,4,5,7,0,8,9][k%7],k+11)
  if ch==0:
+  a=2+(k*5)%8;b=1+(k*3)%7
   total=a+b; c=1+k%total
   if k%3==0:q=f'{a} + {b} = □ + {c}';v=total-c;ans=f'□ = {v}; both sides are {total}.';assert a+b==v+c
   elif k%3==1:q=f'Is {total} = {a} + {b} true? Explain.';ans=f'Yes. Both sides are {total}.'
@@ -101,6 +102,7 @@ def problem(ch,k):
   start=x+b;add=k%2==0;v=start+b if add else start-b;assert v==(start+b if add else start-b)
   q=f'Start with {start} = {start}. {"Add" if add else "Subtract"} {b} on BOTH sides. Write the new equality.';ans=f'{v} = {v}.';hint='Use the same operation and amount twice.'
  elif ch==2:
+  a=2+(k*3)%8;b=1+(k*5)%7
   v=a+b;q=f'{"□" if k%2==0 else "x"} = {a} + {b}. Find the missing number and check.';ans=f'{v}; check {v} = {a} + {b}.';hint='Find the value of the whole sum.';assert v==a+b
  elif ch in [3,4,5,7]:
   coef=a if ch in [5,7] else 1;constant=-b if ch==4 else 0 if ch==5 else b
