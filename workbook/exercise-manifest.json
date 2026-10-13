@@ -1,0 +1,1646 @@
+[
+  {
+    "page": 7,
+    "episode": 1,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Is 6 = 3 + 3 true? Explain.",
+        "a": "Yes. Both sides are 6.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Is 4 + 5 = 10 true? Repair the right side.",
+        "a": "No. The left is 9; replace 10 with 9.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "episode": 1,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "Is 6 = 3 + 3 true? Explain.",
+        "a": "Yes. Both sides are 6.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Is 4 + 5 = 10 true? Repair the right side.",
+        "a": "No. The left is 9; replace 10 with 9.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Is 6 = 3 + 3 true? Explain.",
+        "a": "Yes. Both sides are 6.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Is 4 + 5 = 10 true? Repair the right side.",
+        "a": "No. The left is 9; replace 10 with 9.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "episode": 1,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "Milo says the equals sign means “write the answer next.” Use 7 = 5 + 2 to help him.",
+        "a": "It means same value. The left is 7 and the right is 7, even with the sum after the sign.",
+        "hint": ""
+      },
+      {
+        "q": "Is 3 + 2 = 4 + 1 true? Explain without changing either side.",
+        "a": "Yes. Each side has value 5.",
+        "hint": ""
+      },
+      {
+        "q": "Someone puts 7 in 3 + 4 = □ + 5. Explain the mistake and repair it.",
+        "a": "The left is 7, but 7 + 5 is 12. Put 2 in the box so the right is 7.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "episode": 1,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "Is 6 = 3 + 3 true? Explain.",
+        "a": "Yes. Both sides are 6.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Is 4 + 5 = 10 true? Repair the right side.",
+        "a": "No. The left is 9; replace 10 with 9.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Is 6 = 3 + 3 true? Explain.",
+        "a": "Yes. Both sides are 6.",
+        "hint": "Work out each side separately."
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "episode": 2,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "Start with 3 = 3. Add 2 on BOTH sides. Write the new equality.",
+        "a": "5 = 5.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 8 = 8. Subtract 4 on BOTH sides. Write the new equality.",
+        "a": "4 = 4.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 13 = 13. Add 6 on BOTH sides. Write the new equality.",
+        "a": "19 = 19.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 2 = 2. Subtract 2 on BOTH sides. Write the new equality.",
+        "a": "0 = 0.",
+        "hint": "Use the same operation and amount twice."
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "episode": 2,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "Start with 7 = 7. Add 4 on BOTH sides. Write the new equality.",
+        "a": "11 = 11.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 12 = 12. Subtract 6 on BOTH sides. Write the new equality.",
+        "a": "6 = 6.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 11 = 11. Add 2 on BOTH sides. Write the new equality.",
+        "a": "13 = 13.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 6 = 6. Subtract 4 on BOTH sides. Write the new equality.",
+        "a": "2 = 2.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 11 = 11. Add 6 on BOTH sides. Write the new equality.",
+        "a": "17 = 17.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 10 = 10. Subtract 2 on BOTH sides. Write the new equality.",
+        "a": "8 = 8.",
+        "hint": "Use the same operation and amount twice."
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "episode": 2,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "From 6 = 6, subtract 1 on the left and 2 on the right. What happens?",
+        "a": "You get 5 and 4. Equality is broken because the amounts removed differ.",
+        "hint": ""
+      },
+      {
+        "q": "Starting from 8 = 8, the left becomes 10. Repair the right.",
+        "a": "Add 2 to the right too: 10 = 10.",
+        "hint": ""
+      },
+      {
+        "q": "Does adding 1 to BOTH sides of x + 2 = 5 preserve equality? Does it uncover x?",
+        "a": "Yes, it gives x + 3 = 6, an equivalent equation. It does not leave x alone.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "episode": 2,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "Start with 5 = 5. Add 4 on BOTH sides. Write the new equality.",
+        "a": "9 = 9.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 10 = 10. Subtract 6 on BOTH sides. Write the new equality.",
+        "a": "4 = 4.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 9 = 9. Add 2 on BOTH sides. Write the new equality.",
+        "a": "11 = 11.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Start with 4 = 4. Subtract 4 on BOTH sides. Write the new equality.",
+        "a": "0 = 0.",
+        "hint": "Use the same operation and amount twice."
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "episode": 3,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "□ = 2 + 3. Find the missing number and check.",
+        "a": "5; check 5 = 2 + 3.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x = 3 + 5. Find the missing number and check.",
+        "a": "8; check 8 = 3 + 5.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "□ = 4 + 1. Find the missing number and check.",
+        "a": "5; check 5 = 4 + 1.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x = 2 + 3. Find the missing number and check.",
+        "a": "5; check 5 = 2 + 3.",
+        "hint": "Find the value of the whole sum."
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "episode": 3,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "□ = 3 + 5. Find the missing number and check.",
+        "a": "8; check 8 = 3 + 5.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x = 4 + 1. Find the missing number and check.",
+        "a": "5; check 5 = 4 + 1.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "□ = 2 + 3. Find the missing number and check.",
+        "a": "5; check 5 = 2 + 3.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x = 3 + 5. Find the missing number and check.",
+        "a": "8; check 8 = 3 + 5.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "□ = 4 + 1. Find the missing number and check.",
+        "a": "5; check 5 = 4 + 1.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x = 2 + 3. Find the missing number and check.",
+        "a": "5; check 5 = 2 + 3.",
+        "hint": "Find the value of the whole sum."
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "episode": 3,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "What does x mean in x = 3 + 2? Is it a multiplication sign?",
+        "a": "x names the number 5 in this problem. The multiplication sign is ×.",
+        "hint": ""
+      },
+      {
+        "q": "Test x = 1 in 2 + x = 3. What do you replace?",
+        "a": "Replace x with 1. Then 2 + 1 = 3, so the check works.",
+        "hint": ""
+      },
+      {
+        "q": "One problem has x = 5 and a new problem has x = 2. Is that allowed?",
+        "a": "Yes. x keeps one value within a problem; a new problem can use another value.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "episode": 3,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "□ = 3 + 5. Find the missing number and check.",
+        "a": "8; check 8 = 3 + 5.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x = 4 + 1. Find the missing number and check.",
+        "a": "5; check 5 = 4 + 1.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "□ = 2 + 3. Find the missing number and check.",
+        "a": "5; check 5 = 2 + 3.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x = 3 + 5. Find the missing number and check.",
+        "a": "8; check 8 = 3 + 5.",
+        "hint": "Find the value of the whole sum."
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "episode": 4,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "7 = x + 4",
+        "a": "x = 3; check 1 × 3 + 4 = 7.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "6 + x = 12",
+        "a": "x = 6; check 1 × 6 + 6 = 12.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "x + 2 = 11",
+        "a": "x = 9; check 1 × 9 + 2 = 11.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "6 = x + 4",
+        "a": "x = 2; check 1 × 2 + 4 = 6.",
+        "hint": "Subtract 4 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 26,
+    "episode": 4,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "6 + x = 11",
+        "a": "x = 5; check 1 × 5 + 6 = 11.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "x + 2 = 10",
+        "a": "x = 8; check 1 × 8 + 2 = 10.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "5 = x + 4",
+        "a": "x = 1; check 1 × 1 + 4 = 5.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "6 + x = 10",
+        "a": "x = 4; check 1 × 4 + 6 = 10.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "x + 2 = 9",
+        "a": "x = 7; check 1 × 7 + 2 = 9.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "4 = x + 4",
+        "a": "x = 0; check 1 × 0 + 4 = 4.",
+        "hint": "Subtract 4 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "episode": 4,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "Are x + 2 = 3 and 3 = x + 2 asking for the same x? Explain.",
+        "a": "Yes. Reversing the two sides keeps the equality true. Both give x = 1.",
+        "hint": ""
+      },
+      {
+        "q": "Why is x = 0 a valid answer to 2 + x = 2?",
+        "a": "Because 2 + 0 = 2. Zero adds nothing and both sides match.",
+        "hint": ""
+      },
+      {
+        "q": "A friend solves x + 3 = 8 as x = 11. Check and repair the answer.",
+        "a": "11 + 3 = 14, not 8. Subtract 3 from both sides to get x = 5.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 28,
+    "episode": 4,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "6 + x = 9",
+        "a": "x = 3; check 1 × 3 + 6 = 9.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "x + 2 = 8",
+        "a": "x = 6; check 1 × 6 + 2 = 8.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "13 = x + 4",
+        "a": "x = 9; check 1 × 9 + 4 = 13.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "6 + x = 8",
+        "a": "x = 2; check 1 × 2 + 6 = 8.",
+        "hint": "Subtract 6 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "episode": 5,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "x − 5 = 4",
+        "a": "x = 9; check 1 × 9 − 5 = 4.",
+        "hint": "Add 5 on both sides."
+      },
+      {
+        "q": "x − 1 = 7",
+        "a": "x = 8; check 1 × 8 − 1 = 7.",
+        "hint": "Add 1 on both sides."
+      },
+      {
+        "q": "x − 3 = 0",
+        "a": "x = 3; check 1 × 3 − 3 = 0.",
+        "hint": "Add 3 on both sides."
+      },
+      {
+        "q": "x − 5 = 3",
+        "a": "x = 8; check 1 × 8 − 5 = 3.",
+        "hint": "Add 5 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 32,
+    "episode": 5,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "x − 1 = 6",
+        "a": "x = 7; check 1 × 7 − 1 = 6.",
+        "hint": "Add 1 on both sides."
+      },
+      {
+        "q": "x − 3 = 9",
+        "a": "x = 12; check 1 × 12 − 3 = 9.",
+        "hint": "Add 3 on both sides."
+      },
+      {
+        "q": "x − 5 = 2",
+        "a": "x = 7; check 1 × 7 − 5 = 2.",
+        "hint": "Add 5 on both sides."
+      },
+      {
+        "q": "x − 1 = 5",
+        "a": "x = 6; check 1 × 6 − 1 = 5.",
+        "hint": "Add 1 on both sides."
+      },
+      {
+        "q": "x − 3 = 8",
+        "a": "x = 11; check 1 × 11 − 3 = 8.",
+        "hint": "Add 3 on both sides."
+      },
+      {
+        "q": "x − 5 = 1",
+        "a": "x = 6; check 1 × 6 − 5 = 1.",
+        "hint": "Add 5 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 33,
+    "episode": 5,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "Why add 3 to BOTH sides of x − 3 = 4?",
+        "a": "It undoes subtracting 3 on the left and preserves equality. x = 7.",
+        "hint": ""
+      },
+      {
+        "q": "A bag loses 2 counters and has 5 left. Is the starting count more or less than 5?",
+        "a": "More. It started with 7 because 7 − 2 = 5.",
+        "hint": ""
+      },
+      {
+        "q": "A friend subtracts 3 from 4 and says x = 1 in x − 3 = 4. Repair the method.",
+        "a": "Undo taking away by adding 3 to BOTH sides. x = 7; check 7 − 3 = 4. Taking 3 away from 1 cannot leave 4.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 34,
+    "episode": 5,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "x − 1 = 4",
+        "a": "x = 5; check 1 × 5 − 1 = 4.",
+        "hint": "Add 1 on both sides."
+      },
+      {
+        "q": "x − 3 = 7",
+        "a": "x = 10; check 1 × 10 − 3 = 7.",
+        "hint": "Add 3 on both sides."
+      },
+      {
+        "q": "x − 5 = 0",
+        "a": "x = 5; check 1 × 5 − 5 = 0.",
+        "hint": "Add 5 on both sides."
+      },
+      {
+        "q": "x − 1 = 3",
+        "a": "x = 4; check 1 × 4 − 1 = 3.",
+        "hint": "Add 1 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "episode": 6,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "2x = 10",
+        "a": "x = 5; check 2 × 5 + 0 = 10.",
+        "hint": "Divide by 2 on both sides."
+      },
+      {
+        "q": "3x = 24",
+        "a": "x = 8; check 3 × 8 + 0 = 24.",
+        "hint": "Divide by 3 on both sides."
+      },
+      {
+        "q": "4x = 4",
+        "a": "x = 1; check 4 × 1 + 0 = 4.",
+        "hint": "Divide by 4 on both sides."
+      },
+      {
+        "q": "2x = 8",
+        "a": "x = 4; check 2 × 4 + 0 = 8.",
+        "hint": "Divide by 2 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 38,
+    "episode": 6,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "3x = 21",
+        "a": "x = 7; check 3 × 7 + 0 = 21.",
+        "hint": "Divide by 3 on both sides."
+      },
+      {
+        "q": "4x = 0",
+        "a": "x = 0; check 4 × 0 + 0 = 0.",
+        "hint": "Divide by 4 on both sides."
+      },
+      {
+        "q": "2x = 6",
+        "a": "x = 3; check 2 × 3 + 0 = 6.",
+        "hint": "Divide by 2 on both sides."
+      },
+      {
+        "q": "3x = 18",
+        "a": "x = 6; check 3 × 6 + 0 = 18.",
+        "hint": "Divide by 3 on both sides."
+      },
+      {
+        "q": "4x = 36",
+        "a": "x = 9; check 4 × 9 + 0 = 36.",
+        "hint": "Divide by 4 on both sides."
+      },
+      {
+        "q": "2x = 4",
+        "a": "x = 2; check 2 × 2 + 0 = 4.",
+        "hint": "Divide by 2 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 39,
+    "episode": 6,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "At x = 3, compare 2x and x + 2.",
+        "a": "2x = 6. x + 2 = 5. Two copies of x are not the same as adding two.",
+        "hint": ""
+      },
+      {
+        "q": "Two bags look the same. May we assume their counter counts are equal?",
+        "a": "No. We need information that the contents have equal counts, not just equal-looking bags.",
+        "hint": ""
+      },
+      {
+        "q": "Explain 3x = 12 using counters or a drawing.",
+        "a": "Three equal groups total 12. Share 12 into three groups of 4, so x = 4.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 40,
+    "episode": 6,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "3x = 15",
+        "a": "x = 5; check 3 × 5 + 0 = 15.",
+        "hint": "Divide by 3 on both sides."
+      },
+      {
+        "q": "4x = 32",
+        "a": "x = 8; check 4 × 8 + 0 = 32.",
+        "hint": "Divide by 4 on both sides."
+      },
+      {
+        "q": "2x = 2",
+        "a": "x = 1; check 2 × 1 + 0 = 2.",
+        "hint": "Divide by 2 on both sides."
+      },
+      {
+        "q": "3x = 12",
+        "a": "x = 4; check 3 × 4 + 0 = 12.",
+        "hint": "Divide by 3 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 43,
+    "episode": 7,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "Known: x = 6. Find B when B = x + 1.",
+        "a": "B = 7; replace x: 6 + 1 = 7.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 9. Find B when B = x + 3.",
+        "a": "B = 12; replace x: 9 + 3 = 12.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 2. Find B when B = x + 5.",
+        "a": "B = 7; replace x: 2 + 5 = 7.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 5. Find B when B = x + 1.",
+        "a": "B = 6; replace x: 5 + 1 = 6.",
+        "hint": "Write the known number in place of x."
+      }
+    ]
+  },
+  {
+    "page": 44,
+    "episode": 7,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "Known: x = 8. Find B when B = x + 3.",
+        "a": "B = 11; replace x: 8 + 3 = 11.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 1. Find B when B = x + 5.",
+        "a": "B = 6; replace x: 1 + 5 = 6.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 4. Find B when B = x + 1.",
+        "a": "B = 5; replace x: 4 + 1 = 5.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 7. Find B when B = x + 3.",
+        "a": "B = 10; replace x: 7 + 3 = 10.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 0. Find B when B = x + 5.",
+        "a": "B = 5; replace x: 0 + 5 = 5.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 3. Find B when B = x + 1.",
+        "a": "B = 4; replace x: 3 + 1 = 4.",
+        "hint": "Write the known number in place of x."
+      }
+    ]
+  },
+  {
+    "page": 45,
+    "episode": 7,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "In x = 4 and B = x + 3, which is known and which must be found?",
+        "a": "x is known to be 4; B is the new unknown. B = 7.",
+        "hint": ""
+      },
+      {
+        "q": "Does B = x + 3 by itself choose one pair? Give two pairs.",
+        "a": "No. For example x = 1, B = 4 and x = 2, B = 5 both work.",
+        "hint": ""
+      },
+      {
+        "q": "Could different letters name equal numbers? Use x = 4 and B = x + 0.",
+        "a": "Yes. B = 4 and x = 4. Different names do not require different values.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 46,
+    "episode": 7,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "Known: x = 6. Find B when B = x + 3.",
+        "a": "B = 9; replace x: 6 + 3 = 9.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 9. Find B when B = x + 5.",
+        "a": "B = 14; replace x: 9 + 5 = 14.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 2. Find B when B = x + 1.",
+        "a": "B = 3; replace x: 2 + 1 = 3.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "Known: x = 5. Find B when B = x + 3.",
+        "a": "B = 8; replace x: 5 + 3 = 8.",
+        "hint": "Write the known number in place of x."
+      }
+    ]
+  },
+  {
+    "page": 49,
+    "episode": 8,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "2x + 2 = 16",
+        "a": "x = 7; check 2 × 7 + 2 = 16.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "3x + 4 = 4",
+        "a": "x = 0; check 3 × 0 + 4 = 4.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "4x + 6 = 18",
+        "a": "x = 3; check 4 × 3 + 6 = 18.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "2x + 2 = 14",
+        "a": "x = 6; check 2 × 6 + 2 = 14.",
+        "hint": "Subtract 2 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 50,
+    "episode": 8,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "3x + 4 = 31",
+        "a": "x = 9; check 3 × 9 + 4 = 31.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "4x + 6 = 14",
+        "a": "x = 2; check 4 × 2 + 6 = 14.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "2x + 2 = 12",
+        "a": "x = 5; check 2 × 5 + 2 = 12.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "3x + 4 = 28",
+        "a": "x = 8; check 3 × 8 + 4 = 28.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "4x + 6 = 10",
+        "a": "x = 1; check 4 × 1 + 6 = 10.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "2x + 2 = 10",
+        "a": "x = 4; check 2 × 4 + 2 = 10.",
+        "hint": "Subtract 2 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 51,
+    "episode": 8,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "Why remove the 3 in 2x + 3 = 11 before sharing into two groups?",
+        "a": "The 3 loose counters are not part of the two equal groups. Removing them leaves 8 to share.",
+        "hint": ""
+      },
+      {
+        "q": "Someone divides 2x + 4 = 12 by 2 and writes x + 4 = 6. Repair the step.",
+        "a": "Divide the WHOLE side: (2x + 4) ÷ 2 = 12 ÷ 2 gives x + 2 = 6.",
+        "hint": ""
+      },
+      {
+        "q": "Check x = 4 in 3x + 2 = 14.",
+        "a": "3 × 4 + 2 = 12 + 2 = 14. It works.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 52,
+    "episode": 8,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "3x + 4 = 25",
+        "a": "x = 7; check 3 × 7 + 4 = 25.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "4x + 6 = 6",
+        "a": "x = 0; check 4 × 0 + 6 = 6.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "2x + 2 = 8",
+        "a": "x = 3; check 2 × 3 + 2 = 8.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "3x + 4 = 22",
+        "a": "x = 6; check 3 × 6 + 4 = 22.",
+        "hint": "Subtract 4 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 55,
+    "episode": 9,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "Blue has 3 more beads than red. There are 8 red. Find blue and write the relation.",
+        "a": "B = R + 3; B = 11.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 5 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 5. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 1 more beads than red. There are 4 red. Find blue and write the relation.",
+        "a": "B = R + 1; B = 5.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 3 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 3. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      }
+    ]
+  },
+  {
+    "page": 56,
+    "episode": 9,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "Blue has 5 more beads than red. There are 0 red. Find blue and write the relation.",
+        "a": "B = R + 5; B = 5.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 1 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 1. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 3 more beads than red. There are 6 red. Find blue and write the relation.",
+        "a": "B = R + 3; B = 9.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 5 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 5. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 1 more beads than red. There are 2 red. Find blue and write the relation.",
+        "a": "B = R + 1; B = 3.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 3 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 3. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      }
+    ]
+  },
+  {
+    "page": 57,
+    "episode": 9,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "There are 2 more blue beads than red. Repair R = B + 2.",
+        "a": "B = R + 2. Blue is the larger count, so add the extras to red.",
+        "hint": ""
+      },
+      {
+        "q": "Five more adults than children: is A = C + 5 enough to find just one pair?",
+        "a": "No. C = 3, A = 8 and C = 4, A = 9 both fit. A total would provide another clue.",
+        "hint": ""
+      },
+      {
+        "q": "In A = C + 5, what do A and C stand for?",
+        "a": "A is the number of adults and C is the number of children. The letters represent counts.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 58,
+    "episode": 9,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "Blue has 5 more beads than red. There are 8 red. Find blue and write the relation.",
+        "a": "B = R + 5; B = 13.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 1 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 1. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 3 more beads than red. There are 4 red. Find blue and write the relation.",
+        "a": "B = R + 3; B = 7.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Blue has 5 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 5. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      }
+    ]
+  },
+  {
+    "page": 61,
+    "episode": 10,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "In a box, there are 4 more blue beads than red beads. There are 22 altogether. Find both counts.",
+        "a": "red beads: 9; blue beads: 13. Checks: 9 + 13 = 22; 13 − 9 = 4.",
+        "hint": "Remove 4 extras from 22, then share equally."
+      },
+      {
+        "q": "In a room, there are 6 more adults than children. There are 10 altogether. Find both counts.",
+        "a": "children: 2; adults: 8. Checks: 2 + 8 = 10; 8 − 2 = 6.",
+        "hint": "Remove 6 extras from 10, then share equally."
+      },
+      {
+        "q": "In a rack, there are 2 more long sticks than short sticks. There are 12 altogether. Find both counts.",
+        "a": "short sticks: 5; long sticks: 7. Checks: 5 + 7 = 12; 7 − 5 = 2.",
+        "hint": "Remove 2 extras from 12, then share equally."
+      },
+      {
+        "q": "In a box, there are 4 more blue beads than red beads. There are 20 altogether. Find both counts.",
+        "a": "red beads: 8; blue beads: 12. Checks: 8 + 12 = 20; 12 − 8 = 4.",
+        "hint": "Remove 4 extras from 20, then share equally."
+      }
+    ]
+  },
+  {
+    "page": 62,
+    "episode": 10,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "In a room, there are 6 more adults than children. There are 8 altogether. Find both counts.",
+        "a": "children: 1; adults: 7. Checks: 1 + 7 = 8; 7 − 1 = 6.",
+        "hint": "Remove 6 extras from 8, then share equally."
+      },
+      {
+        "q": "In a rack, there are 2 more long sticks than short sticks. There are 10 altogether. Find both counts.",
+        "a": "short sticks: 4; long sticks: 6. Checks: 4 + 6 = 10; 6 − 4 = 2.",
+        "hint": "Remove 2 extras from 10, then share equally."
+      },
+      {
+        "q": "In a box, there are 4 more blue beads than red beads. There are 18 altogether. Find both counts.",
+        "a": "red beads: 7; blue beads: 11. Checks: 7 + 11 = 18; 11 − 7 = 4.",
+        "hint": "Remove 4 extras from 18, then share equally."
+      },
+      {
+        "q": "In a room, there are 6 more adults than children. There are 6 altogether. Find both counts.",
+        "a": "children: 0; adults: 6. Checks: 0 + 6 = 6; 6 − 0 = 6.",
+        "hint": "Remove 6 extras from 6, then share equally."
+      },
+      {
+        "q": "In a rack, there are 2 more long sticks than short sticks. There are 8 altogether. Find both counts.",
+        "a": "short sticks: 3; long sticks: 5. Checks: 3 + 5 = 8; 5 − 3 = 2.",
+        "hint": "Remove 2 extras from 8, then share equally."
+      },
+      {
+        "q": "In a box, there are 4 more blue beads than red beads. There are 16 altogether. Find both counts.",
+        "a": "red beads: 6; blue beads: 10. Checks: 6 + 10 = 16; 10 − 6 = 4.",
+        "hint": "Remove 4 extras from 16, then share equally."
+      }
+    ]
+  },
+  {
+    "page": 63,
+    "episode": 10,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "Why replace A by the WHOLE expression (C + 5) in A + C = 13?",
+        "a": "Because A and C + 5 are equal counts. Replacing all of A gives (C + 5) + C = 13.",
+        "hint": ""
+      },
+      {
+        "q": "A child proposes 5 children and 8 adults for total 13, difference 5. Check both clues.",
+        "a": "The total is 13, but the difference is 3. The correct counts are 4 children and 9 adults.",
+        "hint": ""
+      },
+      {
+        "q": "Why does the bar picture have two C-sized parts? Are both groups children?",
+        "a": "One is the child count; the other is an equal number of adults. Two equal amounts remain after the extras.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 64,
+    "episode": 10,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "In a room, there are 6 more adults than children. There are 24 altogether. Find both counts.",
+        "a": "children: 9; adults: 15. Checks: 9 + 15 = 24; 15 − 9 = 6.",
+        "hint": "Remove 6 extras from 24, then share equally."
+      },
+      {
+        "q": "In a rack, there are 2 more long sticks than short sticks. There are 6 altogether. Find both counts.",
+        "a": "short sticks: 2; long sticks: 4. Checks: 2 + 4 = 6; 4 − 2 = 2.",
+        "hint": "Remove 2 extras from 6, then share equally."
+      },
+      {
+        "q": "In a box, there are 4 more blue beads than red beads. There are 14 altogether. Find both counts.",
+        "a": "red beads: 5; blue beads: 9. Checks: 5 + 9 = 14; 9 − 5 = 4.",
+        "hint": "Remove 4 extras from 14, then share equally."
+      },
+      {
+        "q": "In a room, there are 6 more adults than children. There are 22 altogether. Find both counts.",
+        "a": "children: 8; adults: 14. Checks: 8 + 14 = 22; 14 − 8 = 6.",
+        "hint": "Remove 6 extras from 22, then share equally."
+      }
+    ]
+  },
+  {
+    "page": 67,
+    "episode": 11,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "x + 2 = 8",
+        "a": "x = 6; check 1 × 6 + 2 = 8.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "x − 5 = 0",
+        "a": "x = 5; check 1 × 5 − 5 = 0.",
+        "hint": "Add 5 on both sides."
+      },
+      {
+        "q": "3x = 12",
+        "a": "x = 4; check 3 × 4 + 0 = 12.",
+        "hint": "Divide by 3 on both sides."
+      },
+      {
+        "q": "4x + 6 = 42",
+        "a": "x = 9; check 4 × 9 + 6 = 42.",
+        "hint": "Subtract 6 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 68,
+    "episode": 11,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Blue has 5 more beads than red. There are 6 red. Find blue and write the relation.",
+        "a": "B = R + 5; B = 11.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "In a rack, there are 2 more long sticks than short sticks. There are 2 altogether. Find both counts.",
+        "a": "short sticks: 0; long sticks: 2. Checks: 0 + 2 = 2; 2 − 0 = 2.",
+        "hint": "Remove 2 extras from 2, then share equally."
+      },
+      {
+        "q": "11 = x + 4",
+        "a": "x = 7; check 1 × 7 + 4 = 11.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "x − 1 = 1",
+        "a": "x = 2; check 1 × 2 − 1 = 1.",
+        "hint": "Add 1 on both sides."
+      },
+      {
+        "q": "4x = 20",
+        "a": "x = 5; check 4 × 5 + 0 = 20.",
+        "hint": "Divide by 4 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 69,
+    "episode": 11,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "Choose a first move for x + 4 = 9 and for x − 4 = 3. Why do they differ?",
+        "a": "Subtract 4 in the first; add 4 in the second. Each undoes the operation on x.",
+        "hint": ""
+      },
+      {
+        "q": "A friend gets x = 5 from 2x = 10. Show a check, not just a repeat of the answer.",
+        "a": "Replace x: 2 × 5 = 10. Both sides match.",
+        "hint": ""
+      },
+      {
+        "q": "Explain a useful first move for 2x + 1 = 9, then finish.",
+        "a": "Subtract 1 from both sides: 2x = 8. Divide both sides by 2: x = 4. Check 2 × 4 + 1 = 9.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 70,
+    "episode": 11,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "2x + 2 = 2",
+        "a": "x = 0; check 2 × 0 + 2 = 2.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "Is 6 = 3 + 3 true? Explain.",
+        "a": "Yes. Both sides are 6.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Blue has 1 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 1. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "In a box, there are 4 more blue beads than red beads. There are 6 altogether. Find both counts.",
+        "a": "red beads: 1; blue beads: 5. Checks: 1 + 5 = 6; 5 − 1 = 4.",
+        "hint": "Remove 4 extras from 6, then share equally."
+      }
+    ]
+  },
+  {
+    "page": 73,
+    "episode": 12,
+    "type": "Guided practice",
+    "questions": [
+      {
+        "q": "8 people, with 6 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 1 children, 7 adults; total 8, difference 6.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "11 people, with 2 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 2 leaves the odd number 9, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "18 people, with 4 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 7 children, 11 adults; total 18, difference 4.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "7 people, with 6 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 6 leaves the odd number 1, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      }
+    ]
+  },
+  {
+    "page": 74,
+    "episode": 12,
+    "type": "Independent practice",
+    "questions": [
+      {
+        "q": "8 people, with 2 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 3 children, 5 adults; total 8, difference 2.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "17 people, with 4 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 4 leaves the odd number 13, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "24 people, with 6 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 9 children, 15 adults; total 24, difference 6.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "7 people, with 2 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 2 leaves the odd number 5, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "14 people, with 4 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 5 children, 9 adults; total 14, difference 4.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "23 people, with 6 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 6 leaves the odd number 17, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      }
+    ]
+  },
+  {
+    "page": 75,
+    "episode": 12,
+    "type": "Explain and repair",
+    "questions": [
+      {
+        "q": "Five extras and twelve people: what remains after removing the extras? Can it share equally?",
+        "a": "Seven remain. Two equal whole-number groups leave one over, so no whole-person solution.",
+        "hint": ""
+      },
+      {
+        "q": "Four extras and twelve people: find both counts and check.",
+        "a": "4 children and 8 adults. Total 12 and difference 4.",
+        "hint": ""
+      },
+      {
+        "q": "Could 3.5 be an amount of juice but not a count of whole children? Explain.",
+        "a": "Yes. We can measure 3.5 cups of juice, but not count 3.5 whole children in the room.",
+        "hint": ""
+      }
+    ]
+  },
+  {
+    "page": 76,
+    "episode": 12,
+    "type": "Checkpoint",
+    "questions": [
+      {
+        "q": "4 people, with 2 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 1 children, 3 adults; total 4, difference 2.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "13 people, with 4 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 4 leaves the odd number 9, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "20 people, with 6 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 7 children, 13 adults; total 20, difference 6.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "3 people, with 2 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 2 leaves the odd number 1, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      }
+    ]
+  },
+  {
+    "page": 77,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "x = 3 + 5. Find the missing number and check.",
+        "a": "8; check 8 = 3 + 5.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x + 2 = 11",
+        "a": "x = 9; check 1 × 9 + 2 = 11.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "x − 5 = 3",
+        "a": "x = 8; check 1 × 8 − 5 = 3.",
+        "hint": "Add 5 on both sides."
+      },
+      {
+        "q": "3x = 21",
+        "a": "x = 7; check 3 × 7 + 0 = 21.",
+        "hint": "Divide by 3 on both sides."
+      },
+      {
+        "q": "Known: x = 1. Find B when B = x + 5.",
+        "a": "B = 6; replace x: 1 + 5 = 6.",
+        "hint": "Write the known number in place of x."
+      }
+    ]
+  },
+  {
+    "page": 78,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "2x + 2 = 12",
+        "a": "x = 5; check 2 × 5 + 2 = 12.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "Blue has 5 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 5. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "In a rack, there are 2 more long sticks than short sticks. There are 8 altogether. Find both counts.",
+        "a": "short sticks: 3; long sticks: 5. Checks: 3 + 5 = 8; 5 − 3 = 2.",
+        "hint": "Remove 2 extras from 8, then share equally."
+      },
+      {
+        "q": "Is 4 + 5 = 10 true? Repair the right side.",
+        "a": "No. The left is 9; replace 10 with 9.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "Start with 5 = 5. Add 4 on BOTH sides. Write the new equality.",
+        "a": "9 = 9.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Is 4 + 5 = 10 true? Repair the right side.",
+        "a": "No. The left is 9; replace 10 with 9.",
+        "hint": "Work out each side separately."
+      }
+    ]
+  },
+  {
+    "page": 79,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "□ = 2 + 3. Find the missing number and check.",
+        "a": "5; check 5 = 2 + 3.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "6 + x = 8",
+        "a": "x = 2; check 1 × 2 + 6 = 8.",
+        "hint": "Subtract 6 on both sides."
+      },
+      {
+        "q": "x − 3 = 6",
+        "a": "x = 9; check 1 × 9 − 3 = 6.",
+        "hint": "Add 3 on both sides."
+      },
+      {
+        "q": "2x = 0",
+        "a": "x = 0; check 2 × 0 + 0 = 0.",
+        "hint": "Divide by 2 on both sides."
+      },
+      {
+        "q": "Known: x = 4. Find B when B = x + 3.",
+        "a": "B = 7; replace x: 4 + 3 = 7.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "4x + 6 = 38",
+        "a": "x = 8; check 4 × 8 + 6 = 38.",
+        "hint": "Subtract 6 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 80,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "Blue has 3 more beads than red. There are 2 red. Find blue and write the relation.",
+        "a": "B = R + 3; B = 5.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "In a room, there are 6 more adults than children. There are 18 altogether. Find both counts.",
+        "a": "children: 6; adults: 12. Checks: 6 + 12 = 18; 12 − 6 = 6.",
+        "hint": "Remove 6 extras from 18, then share equally."
+      },
+      {
+        "q": "x − 1 = 7",
+        "a": "x = 8; check 1 × 8 − 1 = 7.",
+        "hint": "Add 1 on both sides."
+      },
+      {
+        "q": "Start with 6 = 6. Subtract 2 on BOTH sides. Write the new equality.",
+        "a": "4 = 4.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "Is 6 = 3 + 3 true? Explain.",
+        "a": "Yes. Both sides are 6.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "x = 4 + 1. Find the missing number and check.",
+        "a": "5; check 5 = 4 + 1.",
+        "hint": "Find the value of the whole sum."
+      }
+    ]
+  },
+  {
+    "page": 81,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "9 = x + 4",
+        "a": "x = 5; check 1 × 5 + 4 = 9.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "x − 1 = 9",
+        "a": "x = 10; check 1 × 10 − 1 = 9.",
+        "hint": "Add 1 on both sides."
+      },
+      {
+        "q": "4x = 12",
+        "a": "x = 3; check 4 × 3 + 0 = 12.",
+        "hint": "Divide by 4 on both sides."
+      },
+      {
+        "q": "Known: x = 7. Find B when B = x + 1.",
+        "a": "B = 8; replace x: 7 + 1 = 8.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "3x + 4 = 7",
+        "a": "x = 1; check 3 × 1 + 4 = 7.",
+        "hint": "Subtract 4 on both sides."
+      },
+      {
+        "q": "Blue has 1 more beads than red. Write a relation using B and R.",
+        "a": "B = R + 1. Blue is the larger count.",
+        "hint": "Start with the smaller count, then add the extras."
+      }
+    ]
+  },
+  {
+    "page": 82,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "In a box, there are 4 more blue beads than red beads. There are 22 altogether. Find both counts.",
+        "a": "red beads: 9; blue beads: 13. Checks: 9 + 13 = 22; 13 − 9 = 4.",
+        "hint": "Remove 4 extras from 22, then share equally."
+      },
+      {
+        "q": "Blue has 3 more beads than red. There are 4 red. Find blue and write the relation.",
+        "a": "B = R + 3; B = 7.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "Start with 13 = 13. Add 6 on BOTH sides. Write the new equality.",
+        "a": "19 = 19.",
+        "hint": "Use the same operation and amount twice."
+      },
+      {
+        "q": "2 + 1 = □ + 1",
+        "a": "□ = 2; both sides are 3.",
+        "hint": "Work out each side separately."
+      },
+      {
+        "q": "□ = 3 + 5. Find the missing number and check.",
+        "a": "8; check 8 = 3 + 5.",
+        "hint": "Find the value of the whole sum."
+      },
+      {
+        "q": "x + 2 = 10",
+        "a": "x = 8; check 1 × 8 + 2 = 10.",
+        "hint": "Subtract 2 on both sides."
+      }
+    ]
+  },
+  {
+    "page": 83,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "x − 5 = 2",
+        "a": "x = 7; check 1 × 7 − 5 = 2.",
+        "hint": "Add 5 on both sides."
+      },
+      {
+        "q": "3x = 18",
+        "a": "x = 6; check 3 × 6 + 0 = 18.",
+        "hint": "Divide by 3 on both sides."
+      },
+      {
+        "q": "Known: x = 0. Find B when B = x + 5.",
+        "a": "B = 5; replace x: 0 + 5 = 5.",
+        "hint": "Write the known number in place of x."
+      },
+      {
+        "q": "2x + 2 = 10",
+        "a": "x = 4; check 2 × 4 + 2 = 10.",
+        "hint": "Subtract 2 on both sides."
+      },
+      {
+        "q": "Blue has 5 more beads than red. There are 8 red. Find blue and write the relation.",
+        "a": "B = R + 5; B = 13.",
+        "hint": "Start with the smaller count, then add the extras."
+      },
+      {
+        "q": "In a rack, there are 2 more long sticks than short sticks. There are 6 altogether. Find both counts.",
+        "a": "short sticks: 2; long sticks: 4. Checks: 2 + 4 = 6; 4 − 2 = 2.",
+        "hint": "Remove 2 extras from 6, then share equally."
+      }
+    ]
+  },
+  {
+    "page": 84,
+    "type": "mixed",
+    "questions": [
+      {
+        "q": "20 people, with 6 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 7 children, 13 adults; total 20, difference 6.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "3 people, with 2 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 2 leaves the odd number 1, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "10 people, with 4 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 3 children, 7 adults; total 10, difference 4.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "19 people, with 6 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 6 leaves the odd number 13, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "20 people, with 2 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "Yes: 9 children, 11 adults; total 20, difference 2.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      },
+      {
+        "q": "9 people, with 4 more adults than children. Is a whole-person answer possible? Explain.",
+        "a": "No. Removing 4 leaves the odd number 5, which cannot share into two equal whole-number counts.",
+        "hint": "Remove the extras; test whether the rest shares equally."
+      }
+    ]
+  }
+]

@@ -2,3 +2,7 @@ viewer/node_modules/
 viewer/dist/
 viewer/.stage/
 viewer/books/
+
+workbook/*.pdf
+workbook/*.zip
+__pycache__/

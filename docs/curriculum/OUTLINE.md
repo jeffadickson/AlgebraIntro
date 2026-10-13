@@ -2,7 +2,7 @@
 
 Revision 2 — reviewed outline, 13 October 2026
 
-This is a revised curriculum plan following an independent AI review from an elementary algebra teacher's perspective. It is not a review by a human teacher or evidence of classroom effectiveness. The runnable HTML currently contains the original eight lessons. The sequence and activity changes below are the implementation target, not a claim that new activities already exist.
+This is a revised curriculum plan following an independent AI review from an elementary algebra teacher's perspective. It is not a review by a human teacher or evidence of classroom effectiveness. Implementation update — 13 October 2026: the standalone HTML now follows this 12-episode sequence, with revised labs, supported-practice tracking, preserved legacy progress, and a matching 100-page workbook.
 
 ## Aim and pacing
 
@@ -96,7 +96,7 @@ Before episode 10, look for interpretation of A = C + 5, substitution of a known
 
 ## HTML implementation handoff
 
-These are pending changes to the current eight-lesson application:
+The following handoff records the changes implemented from the original eight-lesson application:
 
 | Current part | Required revision |
 | --- | --- |

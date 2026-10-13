@@ -8,30 +8,42 @@ Download `Algebra_Adventure.html` and open it in a desktop browser. When downloa
 
 The HTML file contains every lesson, style, and script. No installation, server, account, dependency download, or internet connection is required to use it. Some mobile file-preview applications do not execute JavaScript; use a browser that supports local HTML files.
 
-## Reviewed teaching outline
+## Teaching sequence
 
-The [revised teaching outline](docs/curriculum/OUTLINE.md) adds smaller learning steps, a two-step-equation bridge, and readiness checks following two rounds of independent AI review from an elementary algebra teacher’s perspective. See the [review record](docs/curriculum/REVIEW.md) for findings and decisions. **This is the next curriculum plan; the runnable HTML still has the original eight lessons listed below.**
+The runnable course implements the [reviewed outline](docs/curriculum/OUTLINE.md): 11 core episodes and one optional extension. The [review record](docs/curriculum/REVIEW.md) preserves the AI review history; it is not a human teacher endorsement.
 
-## Lessons
+1. Equals means same value.
+2. Change both sides.
+3. A letter names a number.
+4. Undo addition, including zero and reversed equations.
+5. Undo subtraction.
+6. Equal groups and repeated unknowns.
+7. Replace a known value.
+8. Undo two steps.
+9. Translate “more than.”
+10. Two clues find two quantities.
+11. Choose a method and check.
+12. Optional answer detective.
 
-1. What equals means: both sides have the same value.
-2. Keep it balanced: apply the same operation to both sides.
-3. Meet the mystery: letters represent numbers.
-4. Undo addition: solve simple equations by subtraction.
-5. Undo subtraction and equal groups: addition and division.
-6. Use what you know: substitute a known value into another equation.
-7. Turn stories into algebra: two clues, two unknowns, matching bars.
-8. Be an answer detective: check whether a numerical answer fits the story.
-
-Includes live balance and equation activities, generated practice, hints, incremental worked solutions, a printable parent guide, and a paper worksheet with answers. Bar models provide a bridge to schoolwork; this is not tied to a particular Singapore Math textbook or edition.
-
-The room example uses thirteen people with five more adults than children: four children and nine adults. The twelve-person variation deliberately shows an impossible whole-person answer.
+Includes brief animated robot gestures, live activities, generated practice, hints, worked solutions, checkpoints, and a printable standalone teaching guide. Story bars begin with unknown counts. Bar models provide a bridge to schoolwork without assuming a particular textbook edition.
 
 ## Progress and teaching
 
-The Quinn, Reagan, and Guest profiles store separate progress in browser local storage when available. Copying the file, changing browsers, privacy settings, or clearing browser data may reset progress. Lessons are never locked. Badges count completed practice, including practice completed with hints; they are not mastery assessments.
+Quinn, Reagan, and Guest save separate progress in local storage. Older eight-lesson counts remain intact in a legacy record; they do not become independent evidence. New progress distinguishes practice with help from answers without in-page hints. An adult records explored / supported / independent / revisited observations after an explanation. No lessons are locked and no number of clicks awards mastery.
 
-Use 10–15 minute sessions as a starting point. Ask the child to explain a step and check an answer before moving on. Lesson 5 and the story lesson can be split over multiple sessions.
+Use 10–15 minute sessions as a starting point. Episodes 6 and 10 have explicit pause points. Copying the file, changing browsers, or clearing browser storage may reset local progress.
+
+## 100-page workbook
+
+The printable workbook is a complete offline teaching course: four opening pages, 72 episode pages, eight mixed-practice pages, four references, and twelve answer-key pages. It contains 252 numbered exercises with matched answers. The 100-page count includes the cover and answers.
+
+To reproduce it, install Python packages from `workbook/requirements.txt`, install DejaVu Sans (or set `ALGEBRA_FONT_DIR` to its folder), then run:
+
+```sh
+python tools/build-workbook.py
+```
+
+Output: `workbook/Algebra_Adventure_Workbook.pdf`. The generator checks the exact page count, page text, numeric relations, and text bounds. Generated PDF/ZIP files are distributed as downloadable artifacts; source, exercise manifests, and answer keys live here.
 
 ## Offline behavior and its limits
 
@@ -39,24 +51,18 @@ The course has no external assets, analytics, network calls, or third-party scri
 
 When opened in a regular browser, the HTML file cannot prevent the browser itself, other tabs, or extensions from using the network. For a dedicated Windows application with enforced network-block rules, use the [Offline Book Reader](viewer/README.md). The reader includes the course, a local HTML file picker, bookmarks, zoom, and separate saved data for each book. See its guide and GitHub Actions build results before installing.
 
-## Checks
+## Build and checks
 
-With Node.js installed:
+The delivered HTML needs no build or dependencies. To edit the course sources and rebuild it:
 
 ```sh
+python tools/build-course.py
 node tests/check-course.cjs
 ```
 
-No npm packages are needed. Checks cover 800 generated problems using independent arithmetic, the eight lesson render paths with a DOM stub, answer feedback, duplicate-credit prevention, selected balance/equation operations, invalid zero operations, story calculations, separate profiles, and an offline-resource audit.
+Sources are `course/lessons.json`, `course/shell.html`, and `course/runtime.js`. Tests check 2,400 generated problems, all twelve render paths and checkpoints, help tracking, profile migration, subtraction and two-step activities, unknown story bars, and offline resources. Windows CI also runs real Chromium interactions under the reader's firewall rules and packages the updated reader.
 
-**Verification limit:** these checks use a DOM stub, not a real browser. They do not verify visual layout, browser event behavior, printing, or persistence under every browser's local-file rules. Manual desktop and mobile browser testing remains outstanding.
-
-## Files
-
-- `Algebra_Adventure.html` — complete application and printable teaching guide.
-- `tests/check-course.cjs` — dependency-free logic checks.
-
-No build step is needed. Edit the HTML directly and rerun the checks.
+The PDF is rendered and visually inspected during production. These checks do not establish classroom effectiveness or cover every browser's local-file storage behavior.
 
 ## Dedicated Windows reader
 
@@ -68,4 +74,4 @@ The lessons include a small inline SVG robot with brief CSS gestures at lesson s
 
 ## Open work
 
-Use [GitHub Issues](https://github.com/jeffadickson/AlgebraIntro/issues) to track unfinished work. [Issue #1](https://github.com/jeffadickson/AlgebraIntro/issues/1) tracks implementing the reviewed curriculum outline in the HTML. Commits record completed changes.
+Use [GitHub Issues](https://github.com/jeffadickson/AlgebraIntro/issues) to track unfinished work. [Issue #1](https://github.com/jeffadickson/AlgebraIntro/issues/1) records the reviewed curriculum implementation. Commits record completed changes.

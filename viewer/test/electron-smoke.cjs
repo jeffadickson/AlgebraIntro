@@ -9,11 +9,19 @@ exports.run=async({app,win,openBook,current,session})=>{
     assert.equal(await win.webContents.executeJavaScript('typeof process'),'undefined');
     assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/What equals means/);
     await win.webContents.executeJavaScript("document.getElementById('nextStep').click()");
-    assert.match(await win.webContents.executeJavaScript("document.getElementById('steps').textContent"),/Add five/);
+    assert.match(await win.webContents.executeJavaScript("document.getElementById('steps').textContent"),/Both have value five/);
     assert.equal(await win.webContents.executeJavaScript("document.getElementById('robotBuddy').dataset.mood"),'thinking');
     await win.webContents.executeJavaScript("document.getElementById('robotMotion').click()");
     assert.equal(await win.webContents.executeJavaScript("getComputedStyle(document.querySelector('.robotHead')).animationName"),'none');
     assert.equal(await win.webContents.executeJavaScript("localStorage.getItem('algebra-pip-motion')"),'off');
+    await win.webContents.executeJavaScript("go(9)");
+    assert.match(await win.webContents.executeJavaScript("document.getElementById('storyView').textContent"),/C = \?/);
+    await win.webContents.executeJavaScript("document.getElementById('children').value='4';document.getElementById('checkStory').click()");
+    assert.match(await win.webContents.executeJavaScript("document.getElementById('labFeedback').textContent"),/Both clues fit/);
+    await win.webContents.executeJavaScript("go(4);document.getElementById('amount').value='3';document.getElementById('op').value='add';document.getElementById('apply').click()");
+    assert.match(await win.webContents.executeJavaScript("document.getElementById('labFeedback').textContent"),/Solved: x = 7/);
+    await win.webContents.executeJavaScript("go(7);document.getElementById('amount').value='3';document.getElementById('op').value='sub';document.getElementById('apply').click();document.getElementById('amount').value='2';document.getElementById('op').value='div';document.getElementById('apply').click()");
+    assert.match(await win.webContents.executeJavaScript("document.getElementById('labFeedback').textContent"),/Solved: x = 4/);
     // Real rendering / events, unlike the course's dependency-free DOM stub.
     await win.webContents.executeJavaScript("go(3);document.getElementById('amount').value='2';document.getElementById('op').value='sub';document.getElementById('apply').click()");
     assert.match(await win.webContents.executeJavaScript("document.getElementById('labFeedback').textContent"),/Solved: x = 1/);
