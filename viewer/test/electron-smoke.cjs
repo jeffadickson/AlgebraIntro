@@ -7,7 +7,7 @@ exports.run=async({app,win,openBook,current,session})=>{
   try{
     assert.equal(await win.webContents.executeJavaScript('typeof require'),'undefined');
     assert.equal(await win.webContents.executeJavaScript('typeof process'),'undefined');
-    assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/What equals means/);
+    assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/Equals means same value/);
     await win.webContents.executeJavaScript("document.getElementById('nextStep').click()");
     assert.match(await win.webContents.executeJavaScript("document.getElementById('steps').textContent"),/Both have value five/);
     assert.equal(await win.webContents.executeJavaScript("document.getElementById('robotBuddy').dataset.mood"),'thinking');
