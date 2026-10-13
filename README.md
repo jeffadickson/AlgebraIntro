@@ -33,7 +33,7 @@ Use 10–15 minute sessions as a starting point. Ask the child to explain a step
 
 The course has no external assets, analytics, network calls, or third-party scripts. Its Content Security Policy includes `connect-src 'none'` and restrictive resource rules.
 
-This is a standalone HTML course, **not a network-disabled Chromium application**. The browser itself, other tabs, and extensions may still use the network. Disconnect the computer or enforce an operating-system network restriction if you need the browser process to have no network access. A dedicated network-disabled book reader is a possible future project and is not implemented here.
+When opened in a regular browser, the HTML file cannot prevent the browser itself, other tabs, or extensions from using the network. For a dedicated Windows application with enforced network-block rules, use the [Offline Book Reader](viewer/README.md). The reader includes the course, a local HTML file picker, bookmarks, zoom, and separate saved data for each book. See its guide and GitHub Actions build results before installing.
 
 ## Checks
 
@@ -53,3 +53,7 @@ No npm packages are needed. Checks cover 800 generated problems using independen
 - `tests/check-course.cjs` — dependency-free logic checks.
 
 No build step is needed. Edit the HTML directly and rerun the checks.
+
+## Dedicated Windows reader
+
+See [viewer/README.md](viewer/README.md) for the application, first-run firewall setup, supported HTML features, build instructions, and security limits. The Windows reader workflow builds a downloadable application artifact after its checks pass.
