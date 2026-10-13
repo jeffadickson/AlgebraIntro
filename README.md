@@ -8,6 +8,10 @@ Download `Algebra_Adventure.html` and open it in a desktop browser. When downloa
 
 The HTML file contains every lesson, style, and script. No installation, server, account, dependency download, or internet connection is required to use it. Some mobile file-preview applications do not execute JavaScript; use a browser that supports local HTML files.
 
+## Reviewed teaching outline
+
+The [revised teaching outline](docs/curriculum/OUTLINE.md) adds smaller learning steps, a two-step-equation bridge, and readiness checks following two rounds of independent AI review from an elementary algebra teacher’s perspective. See the [review record](docs/curriculum/REVIEW.md) for findings and decisions. **This is the next curriculum plan; the runnable HTML still has the original eight lessons listed below.**
+
 ## Lessons
 
 1. What equals means: both sides have the same value.
