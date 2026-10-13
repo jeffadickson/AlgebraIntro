@@ -8,6 +8,21 @@ exports.run=async({app,win,openBook,current,session})=>{
     assert.equal(await win.webContents.executeJavaScript('typeof require'),'undefined');
     assert.equal(await win.webContents.executeJavaScript('typeof process'),'undefined');
     assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/Equals means same value/);
+    assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/One small adventure today/);
+    await win.webContents.executeJavaScript("document.getElementById('laterCheck').click()");
+    assert.equal(await win.webContents.executeJavaScript('checking'),'revisit');
+    await win.webContents.executeJavaScript("document.getElementById('fresh').click()");
+    assert.match(await win.webContents.executeJavaScript("document.getElementById('practice').textContent"),/Later check/);
+    // Real hidden-attribute behavior and cancellation must preserve progress.
+    await win.webContents.executeJavaScript("document.getElementById('guideToggle').click()");
+    assert.equal(await win.webContents.executeJavaScript("document.getElementById('resetConfirm').hidden"),true);
+    const progressBeforeReset=await win.webContents.executeJavaScript('JSON.stringify(state.profiles)');
+    await win.webContents.executeJavaScript("document.getElementById('resetProgress').click()");
+    assert.equal(await win.webContents.executeJavaScript("document.getElementById('resetConfirm').hidden"),false);
+    await win.webContents.executeJavaScript("document.getElementById('cancelReset').click()");
+    assert.equal(await win.webContents.executeJavaScript('JSON.stringify(state.profiles)'),progressBeforeReset);
+    assert.equal(await win.webContents.executeJavaScript("document.getElementById('resetConfirm').hidden"),true);
+    await win.webContents.executeJavaScript("document.getElementById('backCourse').click()");
     await win.webContents.executeJavaScript("document.getElementById('nextStep').click()");
     assert.match(await win.webContents.executeJavaScript("document.getElementById('steps').textContent"),/Both have value five/);
     assert.equal(await win.webContents.executeJavaScript("document.getElementById('robotBuddy').dataset.mood"),'thinking');

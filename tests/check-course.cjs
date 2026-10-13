@@ -34,6 +34,18 @@ node('amount').value='0';run('solveMove()');assert.match(node('labFeedback').tex
 run('go(9)');assert.match(node('storyView').innerHTML,/C = \?/);node('children').value='4';node('checkStory').onclick();assert.match(node('labFeedback').textContent,/Both clues fit/);
 run('go(11)');run('drawDetect()');assert.match(node('detectView').innerHTML,/odd/);
 run("state.person='Reagan';go(0)");assert.equal(run('record().unprompted'),0);
+// A later check is generated, keeps its mode for another question, and records help.
+node('laterCheck').onclick();assert.equal(run('checking'),'revisit');assert(run('practice.meta'));
+node('fresh').onclick();assert.equal(run('checking'),'revisit');
+node('hint').onclick();run('practice').answers.forEach((v,i)=>node('answer'+i).value=String(v));run('checkAnswer()');assert.equal(run('record().supported'),1);
+node('freshCheck').onclick();assert.equal(run('practice === lessons[chapter].check'),true);
+// Cancel preserves both profiles; confirmation resets only the selected explorer.
+run('go(3);renderGuide()');const beforeReset=run('JSON.stringify(state.profiles)');
+node('resetProgress').onclick();assert.equal(node('resetConfirm').hidden,false);assert.equal(run('JSON.stringify(state.profiles)'),beforeReset);
+node('cancelReset').onclick();assert.equal(node('resetConfirm').hidden,true);assert.equal(run('JSON.stringify(state.profiles)'),beforeReset);
+const quinnBefore=run('JSON.stringify(state.profiles.Quinn)');node('resetProgress').onclick();node('confirmReset').onclick();
+assert.equal(run('profile().lesson'),0);assert.equal(run('profile().records[0].supported'),0);assert.equal(run('JSON.stringify(state.profiles.Quinn)'),quinnBefore);
+run('go(10)');assert.match(node('lesson').innerHTML,/last core episode/);assert.match(node('lesson').innerHTML,/One small adventure today/);
 const old={'algebra-adventure-v1':JSON.stringify({person:'Quinn',profiles:{Quinn:{lesson:6,counts:[3,4,5,6,7,8,9,10]}}})};const migrated=setup(old);assert.equal(migrated.run('chapter'),9);assert.equal(migrated.run('profile().legacyCounts[6]'),9);assert.equal(migrated.run('record().unprompted'),0);assert(old['algebra-adventure-v1']===migrated.stored['algebra-adventure-v1']);
 assert(!/<(?:script|link|img)[^>]+(?:src|href)=["']https?:/i.test(html));assert(!/\bfetch\s*\(|XMLHttpRequest|WebSocket|sendBeacon/.test(code));assert(html.includes("connect-src 'none'"));
 console.log('PASS: 2400 generated problems, 12 episode render paths/checkpoints, help tracking, duplicate guard, subtraction/two-step labs, unknown bars, profiles, v1 migration and offline audit. DOM stub, not visual QA.');

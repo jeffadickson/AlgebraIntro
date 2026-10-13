@@ -4,6 +4,8 @@ An interactive introduction to algebra for children around age nine. The course 
 
 ## Open the course
 
+For a first session with the children, follow [START_HERE.md](START_HERE.md).
+
 Download `Algebra_Adventure.html` and open it in a desktop browser. When downloading from GitHub, use **Download raw file**, or download the repository ZIP and extract it first.
 
 The HTML file contains every lesson, style, and script. No installation, server, account, dependency download, or internet connection is required to use it. Some mobile file-preview applications do not execute JavaScript; use a browser that supports local HTML files.
@@ -31,7 +33,7 @@ Includes brief animated robot gestures, live activities, generated practice, hin
 
 Quinn, Reagan, and Guest save separate progress in local storage. Older eight-lesson counts remain intact in a legacy record; they do not become independent evidence. New progress distinguishes practice with help from answers without in-page hints. An adult records explored / supported / independent / revisited observations after an explanation. No lessons are locked and no number of clicks awards mastery.
 
-Use 10–15 minute sessions as a starting point. Episodes 6 and 10 have explicit pause points. Copying the file, changing browsers, or clearing browser storage may reset local progress.
+Each episode includes a short remember / explore / try / pause routine. Use 10–15 minute sessions as a starting point. Fixed checkpoints have matching answers in the grown-up guide; “Try a later check” generates another question with the same help tracking. Move on after a fresh explanation and return to earlier ideas on another day. Resetting progress requires a second confirmation click. Episodes 6 and 10 have explicit pause points. Copying the file, changing browsers, or clearing browser storage may reset local progress.
 
 ## 200-page illustrated coursebook
 
