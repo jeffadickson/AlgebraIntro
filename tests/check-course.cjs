@@ -1,7 +1,7 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert'),path=require('path');
 const html=fs.readFileSync(path.join(__dirname,'..','Algebra_Adventure.html'),'utf8');
 const code=html.match(/<script>([\s\S]*?)<\/script>/)[1];
-const nodes=new Map();function node(id){if(!nodes.has(id))nodes.set(id,{value:({xRange:'3',children:'4',extra:'5',total:'12',amount:'2',op:'sub',target:'both'})[id]||'',innerHTML:'',textContent:'',disabled:false,style:{},classList:{add(){},remove(){},toggle(){}},insertAdjacentHTML(_,s){this.innerHTML+=s}});return nodes.get(id)}
+const nodes=new Map();function node(id){if(!nodes.has(id))nodes.set(id,{value:({xRange:'3',children:'4',extra:'5',total:'12',amount:'2',op:'sub',target:'both'})[id]||'',innerHTML:'',textContent:'',disabled:false,dataset:{},setAttribute(k,v){this[k]=v},style:{},classList:{add(){},remove(){},toggle(){}},insertAdjacentHTML(_,s){this.innerHTML+=s}});return nodes.get(id)}
 const stored={};const ctx=vm.createContext({document:{getElementById:node},localStorage:{getItem:k=>stored[k]||null,setItem:(k,v)=>stored[k]=v},window:{print(){}},console});
 vm.runInContext(code,ctx);const run=c=>vm.runInContext(c,ctx);
 for(let ch=0;ch<8;ch++){

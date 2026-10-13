@@ -10,6 +10,10 @@ exports.run=async({app,win,openBook,current,session})=>{
     assert.match(await win.webContents.executeJavaScript('document.body.innerText'),/What equals means/);
     await win.webContents.executeJavaScript("document.getElementById('nextStep').click()");
     assert.match(await win.webContents.executeJavaScript("document.getElementById('steps').textContent"),/Add five/);
+    assert.equal(await win.webContents.executeJavaScript("document.getElementById('robotBuddy').dataset.mood"),'thinking');
+    await win.webContents.executeJavaScript("document.getElementById('robotMotion').click()");
+    assert.equal(await win.webContents.executeJavaScript("getComputedStyle(document.querySelector('.robotHead')).animationName"),'none');
+    assert.equal(await win.webContents.executeJavaScript("localStorage.getItem('algebra-pip-motion')"),'off');
     // Real rendering / events, unlike the course's dependency-free DOM stub.
     await win.webContents.executeJavaScript("go(3);document.getElementById('amount').value='2';document.getElementById('op').value='sub';document.getElementById('apply').click()");
     assert.match(await win.webContents.executeJavaScript("document.getElementById('labFeedback').textContent"),/Solved: x = 1/);

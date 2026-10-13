@@ -61,3 +61,11 @@ No build step is needed. Edit the HTML directly and rerun the checks.
 ## Dedicated Windows reader
 
 See [viewer/README.md](viewer/README.md) for the application, first-run firewall setup, supported HTML features, build instructions, and security limits. The Windows reader workflow builds a downloadable application artifact after its checks pass.
+
+## Pip, the robot helper
+
+The lessons include a small inline SVG robot with brief CSS gestures at lesson starts, worked steps, hints, and answer checks. Pip makes no sound and uses no external assets or network services. The motion toggle is saved locally; system reduced-motion settings also stop the animation.
+
+## Open work
+
+Use [GitHub Issues](https://github.com/jeffadickson/AlgebraIntro/issues) to track unfinished work. [Issue #1](https://github.com/jeffadickson/AlgebraIntro/issues/1) tracks implementing the reviewed curriculum outline in the HTML. Commits record completed changes.
