@@ -2,7 +2,7 @@
 
 Revision 2 — reviewed outline, 13 October 2026
 
-This is a revised curriculum plan following an independent AI review from an elementary algebra teacher's perspective. It is not a review by a human teacher or evidence of classroom effectiveness. Implementation update — 13 October 2026: the standalone HTML now follows this 12-episode sequence, with revised labs, supported-practice tracking, preserved legacy progress, and a matching 100-page workbook.
+This is a revised curriculum plan following an independent AI review from an elementary algebra teacher's perspective. It is not a review by a human teacher or evidence of classroom effectiveness. Implementation update — 13 October 2026: the standalone HTML now follows this 12-episode sequence, with revised labs, supported-practice tracking, preserved legacy progress, and matching 200-page color and monochrome coursebooks.
 
 ## Aim and pacing
 

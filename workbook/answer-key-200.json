@@ -1,0 +1,1906 @@
+[
+  [
+    [
+      14,
+      1,
+      "It means same value. The left is 7 and the right is 7, even with the sum after the sign."
+    ],
+    [
+      14,
+      2,
+      "Yes. Each side has value 5."
+    ],
+    [
+      14,
+      3,
+      "The left is 7, but 7 + 5 is 12. Put 2 in the box so the right is 7."
+    ],
+    [
+      15,
+      1,
+      "□ = 2; both sides are 3."
+    ],
+    [
+      15,
+      2,
+      "Yes. Both sides are 11."
+    ],
+    [
+      15,
+      3,
+      "No. The left is 11; replace 12 with 11."
+    ],
+    [
+      15,
+      4,
+      "□ = 8; both sides are 12."
+    ],
+    [
+      16,
+      1,
+      "6; 6; true."
+    ],
+    [
+      16,
+      2,
+      "3; 3."
+    ],
+    [
+      16,
+      3,
+      "2 + 3 = 4 + 1. Both sides are 5."
+    ],
+    [
+      17,
+      1,
+      "Yes. Both sides are 12."
+    ],
+    [
+      17,
+      2,
+      "No. The left is 5; replace 6 with 5."
+    ],
+    [
+      17,
+      3,
+      "□ = 6; both sides are 13."
+    ],
+    [
+      17,
+      4,
+      "Yes. Both sides are 6."
+    ],
+    [
+      17,
+      5,
+      "No. The left is 6; replace 7 with 6."
+    ],
+    [
+      17,
+      6,
+      "□ = 4; both sides are 14."
+    ],
+    [
+      18,
+      1,
+      "2 hidden tiles. 4 + 3 = 5 + 2 = 7."
+    ],
+    [
+      18,
+      2,
+      "Quinn’s equation is true. Both sides are 9; reversing the sides also gives a true equation."
+    ],
+    [
+      18,
+      3,
+      "No. The counts are 7 and 8."
+    ],
+    [
+      19,
+      1,
+      "Yes. Both sides are 7."
+    ],
+    [
+      19,
+      2,
+      "No. The left is 15; replace 16 with 15."
+    ],
+    [
+      19,
+      3,
+      "□ = 3; both sides are 8."
+    ],
+    [
+      19,
+      4,
+      "Yes. Both sides are 8."
+    ],
+    [
+      20,
+      1,
+      "Example: 3 + 5 = 6 + 2. Both sides equal 8."
+    ],
+    [
+      20,
+      2,
+      "The right includes another 4. The box is 3, because 3 + 4 = 7."
+    ],
+    [
+      20,
+      3,
+      "Both sides have value 10. The equals sign compares values; either side may be an expression."
+    ],
+    [
+      153,
+      1,
+      "□ = 14; both sides are 15."
+    ],
+    [
+      155,
+      4,
+      "No. The left is 12; replace 13 with 12."
+    ],
+    [
+      158,
+      3,
+      "Yes. Both sides are 9."
+    ],
+    [
+      161,
+      2,
+      "□ = 2; both sides are 6."
+    ],
+    [
+      164,
+      1,
+      "No. The left is 10; replace 11 with 10."
+    ],
+    [
+      166,
+      4,
+      "Yes. Both sides are 7."
+    ]
+  ],
+  [
+    [
+      26,
+      1,
+      "You get 5 and 4. Equality is broken because the amounts removed differ."
+    ],
+    [
+      26,
+      2,
+      "Add 2 to the right too: 10 = 10."
+    ],
+    [
+      26,
+      3,
+      "Yes, it gives x + 3 = 6, an equivalent equation. It does not leave x alone."
+    ],
+    [
+      27,
+      1,
+      "5 = 5."
+    ],
+    [
+      27,
+      2,
+      "4 = 4."
+    ],
+    [
+      27,
+      3,
+      "19 = 19."
+    ],
+    [
+      27,
+      4,
+      "0 = 0."
+    ],
+    [
+      28,
+      1,
+      "4; 4; 5; 5."
+    ],
+    [
+      28,
+      2,
+      "3."
+    ],
+    [
+      28,
+      3,
+      "Add 2 to the right. It becomes 8 = 8."
+    ],
+    [
+      29,
+      1,
+      "11 = 11."
+    ],
+    [
+      29,
+      2,
+      "6 = 6."
+    ],
+    [
+      29,
+      3,
+      "13 = 13."
+    ],
+    [
+      29,
+      4,
+      "2 = 2."
+    ],
+    [
+      29,
+      5,
+      "17 = 17."
+    ],
+    [
+      29,
+      6,
+      "8 = 8."
+    ],
+    [
+      30,
+      1,
+      "8 + 3 = 8 + 3, so 11 = 11."
+    ],
+    [
+      30,
+      2,
+      "Remove 2 from the right too. Both then hold 7."
+    ],
+    [
+      30,
+      3,
+      "No. They become 7 and 9."
+    ],
+    [
+      31,
+      1,
+      "9 = 9."
+    ],
+    [
+      31,
+      2,
+      "4 = 4."
+    ],
+    [
+      31,
+      3,
+      "11 = 11."
+    ],
+    [
+      31,
+      4,
+      "0 = 0."
+    ],
+    [
+      32,
+      1,
+      "Example: 4 = 4; 4 + 3 = 4 + 3; 7 = 7."
+    ],
+    [
+      32,
+      2,
+      "One value increases by 2 while the other stays unchanged, so the values no longer match."
+    ],
+    [
+      32,
+      3,
+      "7 = 7. Both values changed by the same amount; equality stayed true."
+    ],
+    [
+      155,
+      3,
+      "9 = 9."
+    ],
+    [
+      158,
+      2,
+      "4 = 4."
+    ],
+    [
+      161,
+      1,
+      "19 = 19."
+    ],
+    [
+      163,
+      4,
+      "0 = 0."
+    ],
+    [
+      166,
+      3,
+      "7 = 7."
+    ]
+  ],
+  [
+    [
+      38,
+      1,
+      "x names the number 5 in this problem. The multiplication sign is ×."
+    ],
+    [
+      38,
+      2,
+      "Replace x with 1. Then 2 + 1 = 3, so the check works."
+    ],
+    [
+      38,
+      3,
+      "Yes. x keeps one value within a problem; a new problem can use another value."
+    ],
+    [
+      39,
+      1,
+      "3; check 3 = 2 + 1."
+    ],
+    [
+      39,
+      2,
+      "11; check 11 = 5 + 6."
+    ],
+    [
+      39,
+      3,
+      "12; check 12 = 8 + 4."
+    ],
+    [
+      39,
+      4,
+      "5; check 5 = 3 + 2."
+    ],
+    [
+      40,
+      1,
+      "8; 8."
+    ],
+    [
+      40,
+      2,
+      "5."
+    ],
+    [
+      40,
+      3,
+      "2; yes, because 3 + 2 = 5."
+    ],
+    [
+      41,
+      1,
+      "13; check 13 = 6 + 7."
+    ],
+    [
+      41,
+      2,
+      "14; check 14 = 9 + 5."
+    ],
+    [
+      41,
+      3,
+      "7; check 7 = 4 + 3."
+    ],
+    [
+      41,
+      4,
+      "8; check 8 = 7 + 1."
+    ],
+    [
+      41,
+      5,
+      "8; check 8 = 2 + 6."
+    ],
+    [
+      41,
+      6,
+      "9; check 9 = 5 + 4."
+    ],
+    [
+      42,
+      1,
+      "x = 2 + 6; x = 8."
+    ],
+    [
+      42,
+      2,
+      "No. Each problem has its own fixed value of x."
+    ],
+    [
+      42,
+      3,
+      "2 + 1 = 3. It matches the right side."
+    ],
+    [
+      43,
+      1,
+      "10; check 10 = 8 + 2."
+    ],
+    [
+      43,
+      2,
+      "10; check 10 = 3 + 7."
+    ],
+    [
+      43,
+      3,
+      "11; check 11 = 6 + 5."
+    ],
+    [
+      43,
+      4,
+      "12; check 12 = 9 + 3."
+    ],
+    [
+      44,
+      1,
+      "Example: x = 2 + 7; x = 9; check 9 = 2 + 7."
+    ],
+    [
+      44,
+      2,
+      "Both occurrences of x represent the same numerical value in that problem."
+    ],
+    [
+      44,
+      3,
+      "x = 9; substitute nine to get 9 = 5 + 4."
+    ],
+    [
+      153,
+      2,
+      "9; check 9 = 7 + 2."
+    ],
+    [
+      156,
+      1,
+      "9; check 9 = 8 + 1."
+    ],
+    [
+      158,
+      4,
+      "16; check 16 = 9 + 7."
+    ],
+    [
+      161,
+      3,
+      "8; check 8 = 2 + 6."
+    ],
+    [
+      164,
+      2,
+      "8; check 8 = 3 + 5."
+    ]
+  ],
+  [
+    [
+      50,
+      1,
+      "Yes. Reversing the two sides keeps the equality true. Both give x = 1."
+    ],
+    [
+      50,
+      2,
+      "Because 2 + 0 = 2. Zero adds nothing and both sides match."
+    ],
+    [
+      50,
+      3,
+      "11 + 3 = 14, not 8. Subtract 3 from both sides to get x = 5."
+    ],
+    [
+      51,
+      1,
+      "x = 3; check 1 × 3 + 4 = 7."
+    ],
+    [
+      51,
+      2,
+      "x = 6; check 1 × 6 + 6 = 12."
+    ],
+    [
+      51,
+      3,
+      "x = 9; check 1 × 9 + 2 = 11."
+    ],
+    [
+      51,
+      4,
+      "x = 2; check 1 × 2 + 4 = 6."
+    ],
+    [
+      52,
+      1,
+      "5; 7."
+    ],
+    [
+      52,
+      2,
+      "3; 3; 0."
+    ],
+    [
+      52,
+      3,
+      "4; 4."
+    ],
+    [
+      53,
+      1,
+      "x = 5; check 1 × 5 + 6 = 11."
+    ],
+    [
+      53,
+      2,
+      "x = 8; check 1 × 8 + 2 = 10."
+    ],
+    [
+      53,
+      3,
+      "x = 1; check 1 × 1 + 4 = 5."
+    ],
+    [
+      53,
+      4,
+      "x = 4; check 1 × 4 + 6 = 10."
+    ],
+    [
+      53,
+      5,
+      "x = 7; check 1 × 7 + 2 = 9."
+    ],
+    [
+      53,
+      6,
+      "x = 0; check 1 × 0 + 4 = 4."
+    ],
+    [
+      54,
+      1,
+      "x + 3 = 8; x = 5. Check 5 + 3 = 8."
+    ],
+    [
+      54,
+      2,
+      "0; x + 4 = 4 gives x = 0."
+    ],
+    [
+      54,
+      3,
+      "x + 2 = 9; x = 7."
+    ],
+    [
+      55,
+      1,
+      "x = 3; check 1 × 3 + 6 = 9."
+    ],
+    [
+      55,
+      2,
+      "x = 6; check 1 × 6 + 2 = 8."
+    ],
+    [
+      55,
+      3,
+      "x = 9; check 1 × 9 + 4 = 13."
+    ],
+    [
+      55,
+      4,
+      "x = 2; check 1 × 2 + 6 = 8."
+    ],
+    [
+      56,
+      1,
+      "Example: x + 5 = 5. Subtract 5 from both sides; x = 0."
+    ],
+    [
+      56,
+      2,
+      "Subtract 4 from both sides. x = 7; check 4 + 7 = 11."
+    ],
+    [
+      56,
+      3,
+      "x = 5; check 8 = 5 + 3."
+    ],
+    [
+      153,
+      3,
+      "x = 9; check 1 × 9 + 2 = 11."
+    ],
+    [
+      156,
+      2,
+      "x = 2; check 1 × 2 + 6 = 8."
+    ],
+    [
+      159,
+      1,
+      "x = 5; check 1 × 5 + 4 = 9."
+    ],
+    [
+      161,
+      4,
+      "x = 8; check 1 × 8 + 2 = 10."
+    ],
+    [
+      164,
+      3,
+      "x = 1; check 1 × 1 + 6 = 7."
+    ]
+  ],
+  [
+    [
+      62,
+      1,
+      "It undoes subtracting 3 on the left and preserves equality. x = 7."
+    ],
+    [
+      62,
+      2,
+      "More. It started with 7 because 7 − 2 = 5."
+    ],
+    [
+      62,
+      3,
+      "Undo taking away by adding 3 to BOTH sides. x = 7; check 7 − 3 = 4. Taking 3 away from 1 cannot leave 4."
+    ],
+    [
+      63,
+      1,
+      "x = 9; check 1 × 9 − 5 = 4."
+    ],
+    [
+      63,
+      2,
+      "x = 8; check 1 × 8 − 1 = 7."
+    ],
+    [
+      63,
+      3,
+      "x = 3; check 1 × 3 − 3 = 0."
+    ],
+    [
+      63,
+      4,
+      "x = 8; check 1 × 8 − 5 = 3."
+    ],
+    [
+      64,
+      1,
+      "2; 9."
+    ],
+    [
+      64,
+      2,
+      "0; 5; 5."
+    ],
+    [
+      64,
+      3,
+      "11; 8."
+    ],
+    [
+      65,
+      1,
+      "x = 7; check 1 × 7 − 1 = 6."
+    ],
+    [
+      65,
+      2,
+      "x = 12; check 1 × 12 − 3 = 9."
+    ],
+    [
+      65,
+      3,
+      "x = 7; check 1 × 7 − 5 = 2."
+    ],
+    [
+      65,
+      4,
+      "x = 6; check 1 × 6 − 1 = 5."
+    ],
+    [
+      65,
+      5,
+      "x = 11; check 1 × 11 − 3 = 8."
+    ],
+    [
+      65,
+      6,
+      "x = 6; check 1 × 6 − 5 = 1."
+    ],
+    [
+      66,
+      1,
+      "x − 2 = 5; x = 7. Check 7 − 2 = 5."
+    ],
+    [
+      66,
+      2,
+      "x − 4 = 6; x = 10."
+    ],
+    [
+      66,
+      3,
+      "x − 5 = 0; x = 5."
+    ],
+    [
+      67,
+      1,
+      "x = 5; check 1 × 5 − 1 = 4."
+    ],
+    [
+      67,
+      2,
+      "x = 10; check 1 × 10 − 3 = 7."
+    ],
+    [
+      67,
+      3,
+      "x = 5; check 1 × 5 − 5 = 0."
+    ],
+    [
+      67,
+      4,
+      "x = 4; check 1 × 4 − 1 = 3."
+    ],
+    [
+      68,
+      1,
+      "Example: x − 4 = 5; add 4 to both sides; x = 9."
+    ],
+    [
+      68,
+      2,
+      "Two were already removed. Adding two restores the starting count; x = 8."
+    ],
+    [
+      68,
+      3,
+      "x = 10. Check 10 − 6 = 4."
+    ],
+    [
+      153,
+      4,
+      "x = 8; check 1 × 8 − 5 = 3."
+    ],
+    [
+      156,
+      3,
+      "x = 9; check 1 × 9 − 3 = 6."
+    ],
+    [
+      159,
+      2,
+      "x = 10; check 1 × 10 − 1 = 9."
+    ],
+    [
+      162,
+      1,
+      "x = 7; check 1 × 7 − 5 = 2."
+    ],
+    [
+      164,
+      4,
+      "x = 8; check 1 × 8 − 3 = 5."
+    ]
+  ],
+  [
+    [
+      74,
+      1,
+      "2x = 6. x + 2 = 5. Two copies of x are not the same as adding two."
+    ],
+    [
+      74,
+      2,
+      "No. We need information that the contents have equal counts, not just equal-looking bags."
+    ],
+    [
+      74,
+      3,
+      "Three equal groups total 12. Share 12 into three groups of 4, so x = 4."
+    ],
+    [
+      75,
+      1,
+      "x = 5; check 2 × 5 + 0 = 10."
+    ],
+    [
+      75,
+      2,
+      "x = 8; check 3 × 8 + 0 = 24."
+    ],
+    [
+      75,
+      3,
+      "x = 1; check 4 × 1 + 0 = 4."
+    ],
+    [
+      75,
+      4,
+      "x = 4; check 2 × 4 + 0 = 8."
+    ],
+    [
+      76,
+      1,
+      "2; 7."
+    ],
+    [
+      76,
+      2,
+      "3; 6."
+    ],
+    [
+      76,
+      3,
+      "8; 6."
+    ],
+    [
+      77,
+      1,
+      "x = 7; check 3 × 7 + 0 = 21."
+    ],
+    [
+      77,
+      2,
+      "x = 0; check 4 × 0 + 0 = 0."
+    ],
+    [
+      77,
+      3,
+      "x = 3; check 2 × 3 + 0 = 6."
+    ],
+    [
+      77,
+      4,
+      "x = 6; check 3 × 6 + 0 = 18."
+    ],
+    [
+      77,
+      5,
+      "x = 9; check 4 × 9 + 0 = 36."
+    ],
+    [
+      77,
+      6,
+      "x = 2; check 2 × 2 + 0 = 4."
+    ],
+    [
+      78,
+      1,
+      "3x = 12; x = 4 pucks per bag."
+    ],
+    [
+      78,
+      2,
+      "2x = 10; x = 5."
+    ],
+    [
+      78,
+      3,
+      "4x means four copies of the group count. x = 2."
+    ],
+    [
+      79,
+      1,
+      "x = 5; check 3 × 5 + 0 = 15."
+    ],
+    [
+      79,
+      2,
+      "x = 8; check 4 × 8 + 0 = 32."
+    ],
+    [
+      79,
+      3,
+      "x = 1; check 2 × 1 + 0 = 2."
+    ],
+    [
+      79,
+      4,
+      "x = 4; check 3 × 4 + 0 = 12."
+    ],
+    [
+      80,
+      1,
+      "Example: three bags have equal counter counts, eighteen total; x is counters per bag, so x = 6."
+    ],
+    [
+      80,
+      2,
+      "The repeated letter states that the counts match. Appearance alone does not establish equal contents."
+    ],
+    [
+      80,
+      3,
+      "x = 5; 4 × 5 = 20."
+    ],
+    [
+      154,
+      1,
+      "x = 7; check 3 × 7 + 0 = 21."
+    ],
+    [
+      156,
+      4,
+      "x = 0; check 2 × 0 + 0 = 0."
+    ],
+    [
+      159,
+      3,
+      "x = 3; check 4 × 3 + 0 = 12."
+    ],
+    [
+      162,
+      2,
+      "x = 6; check 3 × 6 + 0 = 18."
+    ],
+    [
+      165,
+      1,
+      "x = 9; check 2 × 9 + 0 = 18."
+    ]
+  ],
+  [
+    [
+      86,
+      1,
+      "x is known to be 4; B is the new unknown. B = 7."
+    ],
+    [
+      86,
+      2,
+      "No. For example x = 1, B = 4 and x = 2, B = 5 both work."
+    ],
+    [
+      86,
+      3,
+      "Yes. B = 4 and x = 4. Different names do not require different values."
+    ],
+    [
+      87,
+      1,
+      "B = 7; replace x: 6 + 1 = 7."
+    ],
+    [
+      87,
+      2,
+      "B = 12; replace x: 9 + 3 = 12."
+    ],
+    [
+      87,
+      3,
+      "B = 7; replace x: 2 + 5 = 7."
+    ],
+    [
+      87,
+      4,
+      "B = 6; replace x: 5 + 1 = 6."
+    ],
+    [
+      88,
+      1,
+      "2; 7."
+    ],
+    [
+      88,
+      2,
+      "4; 1; 5."
+    ],
+    [
+      88,
+      3,
+      "3; 5."
+    ],
+    [
+      89,
+      1,
+      "B = 11; replace x: 8 + 3 = 11."
+    ],
+    [
+      89,
+      2,
+      "B = 6; replace x: 1 + 5 = 6."
+    ],
+    [
+      89,
+      3,
+      "B = 5; replace x: 4 + 1 = 5."
+    ],
+    [
+      89,
+      4,
+      "B = 10; replace x: 7 + 3 = 10."
+    ],
+    [
+      89,
+      5,
+      "B = 5; replace x: 0 + 5 = 5."
+    ],
+    [
+      89,
+      6,
+      "B = 4; replace x: 3 + 1 = 4."
+    ],
+    [
+      90,
+      1,
+      "B = 4 + 3 = 7."
+    ],
+    [
+      90,
+      2,
+      "B = 6 + 2 = 8."
+    ],
+    [
+      90,
+      3,
+      "No. Both values are 5."
+    ],
+    [
+      91,
+      1,
+      "B = 9; replace x: 6 + 3 = 9."
+    ],
+    [
+      91,
+      2,
+      "B = 14; replace x: 9 + 5 = 14."
+    ],
+    [
+      91,
+      3,
+      "B = 3; replace x: 2 + 1 = 3."
+    ],
+    [
+      91,
+      4,
+      "B = 8; replace x: 5 + 3 = 8."
+    ],
+    [
+      92,
+      1,
+      "Example: x = 6 and B = x + 2, so B = 8."
+    ],
+    [
+      92,
+      2,
+      "x has not been specified. Different x values give different B values, such as (1,5) and (2,6)."
+    ],
+    [
+      92,
+      3,
+      "x = 7 is known. B = 3 + 7 = 10."
+    ],
+    [
+      154,
+      2,
+      "B = 6; replace x: 1 + 5 = 6."
+    ],
+    [
+      157,
+      1,
+      "B = 7; replace x: 4 + 3 = 7."
+    ],
+    [
+      159,
+      4,
+      "B = 8; replace x: 7 + 1 = 8."
+    ],
+    [
+      162,
+      3,
+      "B = 5; replace x: 0 + 5 = 5."
+    ],
+    [
+      165,
+      2,
+      "B = 6; replace x: 3 + 3 = 6."
+    ]
+  ],
+  [
+    [
+      98,
+      1,
+      "The 3 loose counters are not part of the two equal groups. Removing them leaves 8 to share."
+    ],
+    [
+      98,
+      2,
+      "Divide the WHOLE side: (2x + 4) ÷ 2 = 12 ÷ 2 gives x + 2 = 6."
+    ],
+    [
+      98,
+      3,
+      "3 × 4 + 2 = 12 + 2 = 14. It works."
+    ],
+    [
+      99,
+      1,
+      "x = 7; check 2 × 7 + 2 = 16."
+    ],
+    [
+      99,
+      2,
+      "x = 0; check 3 × 0 + 4 = 4."
+    ],
+    [
+      99,
+      3,
+      "x = 3; check 4 × 3 + 6 = 18."
+    ],
+    [
+      99,
+      4,
+      "x = 6; check 2 × 6 + 2 = 14."
+    ],
+    [
+      100,
+      1,
+      "3; 12; 2; 6."
+    ],
+    [
+      100,
+      2,
+      "9; 3; 3."
+    ],
+    [
+      100,
+      3,
+      "2; 6; 4."
+    ],
+    [
+      101,
+      1,
+      "x = 9; check 3 × 9 + 4 = 31."
+    ],
+    [
+      101,
+      2,
+      "x = 2; check 4 × 2 + 6 = 14."
+    ],
+    [
+      101,
+      3,
+      "x = 5; check 2 × 5 + 2 = 12."
+    ],
+    [
+      101,
+      4,
+      "x = 8; check 3 × 8 + 4 = 28."
+    ],
+    [
+      101,
+      5,
+      "x = 1; check 4 × 1 + 6 = 10."
+    ],
+    [
+      101,
+      6,
+      "x = 4; check 2 × 4 + 2 = 10."
+    ],
+    [
+      102,
+      1,
+      "2x + 5 = 13; 2x = 8; x = 4."
+    ],
+    [
+      102,
+      2,
+      "3x + 2 = 17; 3x = 15; x = 5."
+    ],
+    [
+      102,
+      3,
+      "2x + 4 = 10; 2x = 6; x = 3."
+    ],
+    [
+      103,
+      1,
+      "x = 7; check 3 × 7 + 4 = 25."
+    ],
+    [
+      103,
+      2,
+      "x = 0; check 4 × 0 + 6 = 6."
+    ],
+    [
+      103,
+      3,
+      "x = 3; check 2 × 3 + 2 = 8."
+    ],
+    [
+      103,
+      4,
+      "x = 6; check 3 × 6 + 4 = 22."
+    ],
+    [
+      104,
+      1,
+      "Example: 2x + 4 = 10; subtract 4 to get 2x = 6; divide by 2 to get x = 3."
+    ],
+    [
+      104,
+      2,
+      "The entire side must be divided. Correctly, x + 2 = 6, not x + 4 = 6."
+    ],
+    [
+      104,
+      3,
+      "Subtract 5: 2x = 12. Divide by 2: x = 6. Check 2 × 6 + 5 = 17."
+    ],
+    [
+      154,
+      3,
+      "x = 5; check 2 × 5 + 2 = 12."
+    ],
+    [
+      157,
+      2,
+      "x = 8; check 4 × 8 + 6 = 38."
+    ],
+    [
+      160,
+      1,
+      "x = 1; check 3 × 1 + 4 = 7."
+    ],
+    [
+      162,
+      4,
+      "x = 4; check 2 × 4 + 2 = 10."
+    ],
+    [
+      165,
+      3,
+      "x = 7; check 4 × 7 + 6 = 34."
+    ]
+  ],
+  [
+    [
+      110,
+      1,
+      "B = R + 2. Blue is the larger count, so add the extras to red."
+    ],
+    [
+      110,
+      2,
+      "No. C = 3, A = 8 and C = 4, A = 9 both fit. A total would provide another clue."
+    ],
+    [
+      110,
+      3,
+      "A is the number of adults and C is the number of children. The letters represent counts."
+    ],
+    [
+      111,
+      1,
+      "B = R + 3; B = 11."
+    ],
+    [
+      111,
+      2,
+      "B = R + 5. Blue is the larger count."
+    ],
+    [
+      111,
+      3,
+      "B = R + 1; B = 5."
+    ],
+    [
+      111,
+      4,
+      "B = R + 3. Blue is the larger count."
+    ],
+    [
+      112,
+      1,
+      "C; 5."
+    ],
+    [
+      112,
+      2,
+      "2; 4; 6."
+    ],
+    [
+      112,
+      3,
+      "2."
+    ],
+    [
+      113,
+      1,
+      "B = R + 5; B = 5."
+    ],
+    [
+      113,
+      2,
+      "B = R + 1. Blue is the larger count."
+    ],
+    [
+      113,
+      3,
+      "B = R + 3; B = 9."
+    ],
+    [
+      113,
+      4,
+      "B = R + 5. Blue is the larger count."
+    ],
+    [
+      113,
+      5,
+      "B = R + 1; B = 3."
+    ],
+    [
+      113,
+      6,
+      "B = R + 3. Blue is the larger count."
+    ],
+    [
+      114,
+      1,
+      "A = C + 4."
+    ],
+    [
+      114,
+      2,
+      "B = R + 2; B = 8. Check 8 − 6 = 2."
+    ],
+    [
+      114,
+      3,
+      "L = S + 3. The long-stick count is larger."
+    ],
+    [
+      115,
+      1,
+      "B = R + 5; B = 13."
+    ],
+    [
+      115,
+      2,
+      "B = R + 1. Blue is the larger count."
+    ],
+    [
+      115,
+      3,
+      "B = R + 3; B = 7."
+    ],
+    [
+      115,
+      4,
+      "B = R + 5. Blue is the larger count."
+    ],
+    [
+      116,
+      1,
+      "Example: there are three more blue beads than red beads."
+    ],
+    [
+      116,
+      2,
+      "Examples: C = 1, A = 3 and C = 4, A = 6. Both have difference 2; no total was given."
+    ],
+    [
+      116,
+      3,
+      "B = R + 5 = 9. Add the extras to red to find the larger blue count."
+    ],
+    [
+      154,
+      4,
+      "B = R + 5. Blue is the larger count."
+    ],
+    [
+      157,
+      3,
+      "B = R + 3; B = 5."
+    ],
+    [
+      160,
+      2,
+      "B = R + 1. Blue is the larger count."
+    ],
+    [
+      163,
+      1,
+      "B = R + 5; B = 13."
+    ],
+    [
+      165,
+      4,
+      "B = R + 3. Blue is the larger count."
+    ]
+  ],
+  [
+    [
+      122,
+      1,
+      "Because A and C + 5 are equal counts. Replacing all of A gives (C + 5) + C = 13."
+    ],
+    [
+      122,
+      2,
+      "The total is 13, but the difference is 3. The correct counts are 4 children and 9 adults."
+    ],
+    [
+      122,
+      3,
+      "One is the child count; the other is an equal number of adults. Two equal amounts remain after the extras."
+    ],
+    [
+      123,
+      1,
+      "red beads: 9; blue beads: 13. Checks: 9 + 13 = 22; 13 − 9 = 4."
+    ],
+    [
+      123,
+      2,
+      "children: 2; adults: 8. Checks: 2 + 8 = 10; 8 − 2 = 6."
+    ],
+    [
+      123,
+      3,
+      "short sticks: 5; long sticks: 7. Checks: 5 + 7 = 12; 7 − 5 = 2."
+    ],
+    [
+      123,
+      4,
+      "red beads: 8; blue beads: 12. Checks: 8 + 12 = 20; 12 − 8 = 4."
+    ],
+    [
+      124,
+      1,
+      "C; 8; 4; 7."
+    ],
+    [
+      124,
+      2,
+      "12; 6; 8."
+    ],
+    [
+      124,
+      3,
+      "4 + 9 = 13; 9 − 4 = 5."
+    ],
+    [
+      125,
+      1,
+      "children: 1; adults: 7. Checks: 1 + 7 = 8; 7 − 1 = 6."
+    ],
+    [
+      125,
+      2,
+      "short sticks: 4; long sticks: 6. Checks: 4 + 6 = 10; 6 − 4 = 2."
+    ],
+    [
+      125,
+      3,
+      "red beads: 7; blue beads: 11. Checks: 7 + 11 = 18; 11 − 7 = 4."
+    ],
+    [
+      125,
+      4,
+      "children: 0; adults: 6. Checks: 0 + 6 = 6; 6 − 0 = 6."
+    ],
+    [
+      125,
+      5,
+      "short sticks: 3; long sticks: 5. Checks: 3 + 5 = 8; 5 − 3 = 2."
+    ],
+    [
+      125,
+      6,
+      "red beads: 6; blue beads: 10. Checks: 6 + 10 = 16; 10 − 6 = 4."
+    ],
+    [
+      126,
+      1,
+      "4 children, 7 adults. 4 + 7 = 11; 7 − 4 = 3."
+    ],
+    [
+      126,
+      2,
+      "6 red, 8 blue. 6 + 8 = 14; 8 − 6 = 2."
+    ],
+    [
+      126,
+      3,
+      "4 short, 8 long. 4 + 8 = 12; 8 − 4 = 4."
+    ],
+    [
+      127,
+      1,
+      "children: 9; adults: 15. Checks: 9 + 15 = 24; 15 − 9 = 6."
+    ],
+    [
+      127,
+      2,
+      "short sticks: 2; long sticks: 4. Checks: 2 + 4 = 6; 4 − 2 = 2."
+    ],
+    [
+      127,
+      3,
+      "red beads: 5; blue beads: 9. Checks: 5 + 9 = 14; 9 − 5 = 4."
+    ],
+    [
+      127,
+      4,
+      "children: 8; adults: 14. Checks: 8 + 14 = 22; 14 − 8 = 6."
+    ],
+    [
+      128,
+      1,
+      "Example: 4 more blue beads than red, 10 altogether. Counts are 3 red and 7 blue."
+    ],
+    [
+      128,
+      2,
+      "The five extras belong only to the larger count. Remove them first; the remaining 8 can share equally."
+    ],
+    [
+      128,
+      3,
+      "4 children and 6 adults. Total 10, difference 2."
+    ],
+    [
+      155,
+      1,
+      "short sticks: 3; long sticks: 5. Checks: 3 + 5 = 8; 5 − 3 = 2."
+    ],
+    [
+      157,
+      4,
+      "children: 6; adults: 12. Checks: 6 + 12 = 18; 12 − 6 = 6."
+    ],
+    [
+      160,
+      3,
+      "red beads: 9; blue beads: 13. Checks: 9 + 13 = 22; 13 − 9 = 4."
+    ],
+    [
+      163,
+      2,
+      "short sticks: 2; long sticks: 4. Checks: 2 + 4 = 6; 4 − 2 = 2."
+    ],
+    [
+      166,
+      1,
+      "children: 5; adults: 11. Checks: 5 + 11 = 16; 11 − 5 = 6."
+    ]
+  ],
+  [
+    [
+      134,
+      1,
+      "Subtract 4 in the first; add 4 in the second. Each undoes the operation on x."
+    ],
+    [
+      134,
+      2,
+      "Replace x: 2 × 5 = 10. Both sides match."
+    ],
+    [
+      134,
+      3,
+      "Subtract 1 from both sides: 2x = 8. Divide both sides by 2: x = 4. Check 2 × 4 + 1 = 9."
+    ],
+    [
+      135,
+      1,
+      "x = 6; check 1 × 6 + 2 = 8."
+    ],
+    [
+      135,
+      2,
+      "x = 5; check 1 × 5 − 5 = 0."
+    ],
+    [
+      135,
+      3,
+      "x = 4; check 3 × 4 + 0 = 12."
+    ],
+    [
+      135,
+      4,
+      "x = 9; check 4 × 9 + 6 = 42."
+    ],
+    [
+      136,
+      1,
+      "subtract; 6."
+    ],
+    [
+      136,
+      2,
+      "add; 10."
+    ],
+    [
+      136,
+      3,
+      "3; 2; 5."
+    ],
+    [
+      137,
+      1,
+      "□ = 2; both sides are 9."
+    ],
+    [
+      137,
+      2,
+      "B = R + 5; B = 11."
+    ],
+    [
+      137,
+      3,
+      "short sticks: 0; long sticks: 2. Checks: 0 + 2 = 2; 2 − 0 = 2."
+    ],
+    [
+      137,
+      4,
+      "x = 7; check 1 × 7 + 4 = 11."
+    ],
+    [
+      137,
+      5,
+      "x = 2; check 1 × 2 − 1 = 1."
+    ],
+    [
+      137,
+      6,
+      "x = 5; check 4 × 5 + 0 = 20."
+    ],
+    [
+      138,
+      1,
+      "x + 4 = 9; subtract 4 from both sides; x = 5."
+    ],
+    [
+      138,
+      2,
+      "x − 4 = 3; add 4 to both sides; x = 7."
+    ],
+    [
+      138,
+      3,
+      "2x + 1 = 9; subtract 1, then divide by 2. x = 4; check 2 × 4 + 1 = 9."
+    ],
+    [
+      139,
+      1,
+      "x = 0; check 2 × 0 + 2 = 2."
+    ],
+    [
+      139,
+      2,
+      "Yes. Both sides are 12."
+    ],
+    [
+      139,
+      3,
+      "B = R + 1. Blue is the larger count."
+    ],
+    [
+      139,
+      4,
+      "red beads: 1; blue beads: 5. Checks: 1 + 5 = 6; 5 − 1 = 4."
+    ],
+    [
+      140,
+      1,
+      "Example: x + 2 = 5 needs subtract 2; x − 2 = 5 needs add 2."
+    ],
+    [
+      140,
+      2,
+      "Subtract 3, giving x = 5. Check 5 + 3 = 8. Eleven fails because 11 + 3 = 14."
+    ],
+    [
+      140,
+      3,
+      "First divide by 3: x = 6. Second add 3: x = 9. Multiplication and subtraction need different undoing actions."
+    ],
+    [
+      155,
+      2,
+      "No. The left is 8; replace 9 with 8."
+    ],
+    [
+      158,
+      1,
+      "x = 8; check 1 × 8 − 1 = 7."
+    ],
+    [
+      160,
+      4,
+      "B = R + 3; B = 7."
+    ],
+    [
+      163,
+      3,
+      "x = 4; check 4 × 4 + 0 = 16."
+    ],
+    [
+      166,
+      2,
+      "children: 1; adults: 7. Checks: 1 + 7 = 8; 7 − 1 = 6."
+    ]
+  ],
+  [
+    [
+      146,
+      1,
+      "Seven remain. Two equal whole-number groups leave one over, so no whole-person solution."
+    ],
+    [
+      146,
+      2,
+      "4 children and 8 adults. Total 12 and difference 4."
+    ],
+    [
+      146,
+      3,
+      "Yes. We can measure 3.5 cups of juice, but not count 3.5 whole children in the room."
+    ],
+    [
+      147,
+      1,
+      "Yes: 1 children, 7 adults; total 8, difference 6."
+    ],
+    [
+      147,
+      2,
+      "No. Removing 2 leaves the odd number 9, which cannot share into two equal whole-number counts."
+    ],
+    [
+      147,
+      3,
+      "Yes: 7 children, 11 adults; total 18, difference 4."
+    ],
+    [
+      147,
+      4,
+      "No. Removing 6 leaves the odd number 1, which cannot share into two equal whole-number counts."
+    ],
+    [
+      148,
+      1,
+      "8; 4; 9."
+    ],
+    [
+      148,
+      2,
+      "7; odd; no."
+    ],
+    [
+      148,
+      3,
+      "4; 8; 4; 8."
+    ],
+    [
+      149,
+      1,
+      "Yes: 3 children, 5 adults; total 8, difference 2."
+    ],
+    [
+      149,
+      2,
+      "No. Removing 4 leaves the odd number 13, which cannot share into two equal whole-number counts."
+    ],
+    [
+      149,
+      3,
+      "Yes: 9 children, 15 adults; total 24, difference 6."
+    ],
+    [
+      149,
+      4,
+      "No. Removing 2 leaves the odd number 5, which cannot share into two equal whole-number counts."
+    ],
+    [
+      149,
+      5,
+      "Yes: 5 children, 9 adults; total 14, difference 4."
+    ],
+    [
+      149,
+      6,
+      "No. Removing 6 leaves the odd number 17, which cannot share into two equal whole-number counts."
+    ],
+    [
+      150,
+      1,
+      "No. 12 − 5 = 7 is odd."
+    ],
+    [
+      150,
+      2,
+      "5 children and 7 adults. Total 12, difference 2."
+    ],
+    [
+      150,
+      3,
+      "No. 12 − 3 = 9 is odd."
+    ],
+    [
+      151,
+      1,
+      "Yes: 1 children, 3 adults; total 4, difference 2."
+    ],
+    [
+      151,
+      2,
+      "No. Removing 4 leaves the odd number 9, which cannot share into two equal whole-number counts."
+    ],
+    [
+      151,
+      3,
+      "Yes: 7 children, 13 adults; total 20, difference 6."
+    ],
+    [
+      151,
+      4,
+      "No. Removing 2 leaves the odd number 1, which cannot share into two equal whole-number counts."
+    ],
+    [
+      152,
+      1,
+      "Example: total 10, difference 3. Seven remain, which cannot form two equal whole counts."
+    ],
+    [
+      152,
+      2,
+      "Example: total 10, difference 2. Counts 4 and 6; total 10 and difference 2."
+    ],
+    [
+      152,
+      3,
+      "6 children and 9 adults. 15 − 3 = 12; 12 ÷ 2 = 6. Checks: 6 + 9 = 15 and 9 − 6 = 3."
+    ],
+    [
+      167,
+      1,
+      "Yes: 9 children, 13 adults; total 22, difference 4."
+    ],
+    [
+      167,
+      2,
+      "No. Removing 6 leaves the odd number 5, which cannot share into two equal whole-number counts."
+    ],
+    [
+      167,
+      3,
+      "Yes: 5 children, 7 adults; total 12, difference 2."
+    ],
+    [
+      167,
+      4,
+      "No. Removing 4 leaves the odd number 17, which cannot share into two equal whole-number counts."
+    ],
+    [
+      168,
+      1,
+      "Yes: 1 children, 7 adults; total 8, difference 6."
+    ],
+    [
+      168,
+      2,
+      "No. Removing 2 leaves the odd number 9, which cannot share into two equal whole-number counts."
+    ],
+    [
+      168,
+      3,
+      "Yes: 7 children, 11 adults; total 18, difference 4."
+    ],
+    [
+      168,
+      4,
+      "No. Removing 6 leaves the odd number 1, which cannot share into two equal whole-number counts."
+    ]
+  ]
+]

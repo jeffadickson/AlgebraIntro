@@ -33,17 +33,24 @@ Quinn, Reagan, and Guest save separate progress in local storage. Older eight-le
 
 Use 10–15 minute sessions as a starting point. Episodes 6 and 10 have explicit pause points. Copying the file, changing browsers, or clearing browser storage may reset local progress.
 
-## 100-page workbook
+## 200-page illustrated coursebook
 
-The printable workbook is a complete offline teaching course: four opening pages, 72 episode pages, eight mixed-practice pages, four references, and twelve answer-key pages. It contains 252 numbered exercises with matched answers. The 100-page count includes the cover and answers.
+The expanded self-contained book has matching color and ink-friendly monochrome editions. Each is exactly 200 pages: eight introductory pages, twelve 12-page episodes, sixteen mixed-review pages, eight references, and twenty-four answer-key pages. There are 376 numbered exercises. The same content and pagination appear in both editions.
 
-To reproduce it, install Python packages from `workbook/requirements.txt`, install DejaVu Sans (or set `ALGEBRA_FONT_DIR` to its folder), then run:
+Each episode now includes five teaching pages: an introduction, a concrete model, detailed symbol explanations, and two fully worked examples. Practice includes error repair, guided questions, partly completed reasoning, independent work, short stories, checkpoints, and later revisits. The offline HTML includes the expanded models and explanations under “More detail.”
+
+Generated Pip artwork has separate color and black-outline versions. The monochrome PDF uses grayscale image data, black text, and open diagrams; no task requires color. Art sources and prompts are in `workbook/art/`. Exact mathematical diagrams are drawn programmatically.
+
+To reproduce the books, install Python packages from `workbook/requirements.txt`, install DejaVu Sans (or set `ALGEBRA_FONT_DIR` to its folder), then run:
 
 ```sh
 python tools/build-workbook.py
+python tests/check-workbook.py
 ```
 
-Output: `workbook/Algebra_Adventure_Workbook.pdf`. The generator checks the exact page count, page text, numeric relations, and text bounds. Generated PDF/ZIP files are distributed as downloadable artifacts; source, exercise manifests, and answer keys live here.
+Outputs: `workbook/Algebra_Adventure_200_Color.pdf` and `workbook/Algebra_Adventure_200_Monochrome.pdf`. Use `--edition color` or `--edition mono` for one edition. `tools/build-workbook-100.py` preserves the earlier layout. Generated PDF/ZIP files are distributed as downloadable artifacts; the source, artwork, exercise manifests, and answer keys are in the repository.
+
+The builds verify page count, matching edition text, content bounds, exercise/key coverage, and monochrome color use. Rendered pages are visually reviewed during production. These are publishing checks, not evidence of classroom effectiveness.
 
 ## Offline behavior and its limits
 
